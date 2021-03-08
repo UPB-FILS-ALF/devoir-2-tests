@@ -2,6 +2,7 @@
 
 for folder in tests/*
 do
+    rm "$folder"/*.out
     for file in "$folder"/*.asm 
     do
         echo $file
