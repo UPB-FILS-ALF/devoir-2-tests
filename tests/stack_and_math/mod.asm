@@ -1,5 +1,5 @@
 push 55
-push 3
-div
+push 7
+mod
 stack
 print
