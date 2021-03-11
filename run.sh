@@ -9,7 +9,7 @@ function run_test {
     echo Running $filename
     node $dir/../index.js $filename > output
     ERROR=0
-    if ! diff output $outputname --side-by-side > error; 
+    if ! diff output $outputname -Z --side-by-side > error; 
     then
         echo "Your output                                                   | Correct output"
         cat error
