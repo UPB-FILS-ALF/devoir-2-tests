@@ -6,6 +6,6 @@ do
     for file in "$folder"/*.asm 
     do
         echo $file
-        node ../index.js "$file" > "$folder"/$(basename $file .asm).out
+        node ../index.js "$file" > "$folder"/$(basename $file .asm).out 1024
     done
 done

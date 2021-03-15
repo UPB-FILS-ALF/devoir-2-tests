@@ -2,8 +2,8 @@
     push 12
     stack
     load
-next_power: store
-    jumpz done
+    store
+    jumpz 16
     load
     push 3
     mul
@@ -12,6 +12,6 @@ next_power: store
     sub
     load
     stack
-    jump next_power
-done: pop
+    jump 5
+    pop
     print
