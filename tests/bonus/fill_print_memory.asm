@@ -7,7 +7,7 @@ next_fill: push 1
     load
     store
     store
-    push 1023
+    push 99
     sub
     jumpz done_fill
     push 0

@@ -7,7 +7,7 @@ function run_test {
     filename="$dir/tests/$1"
     outputname="$(dirname $filename)/$(basename $1 .asm).out"
     echo Running $filename
-    node $dir/../index.js $filename > output
+    node $dir/../index.js $filename > output 100
     ERROR=0
     if ! diff output $outputname -Z --side-by-side > error; 
     then

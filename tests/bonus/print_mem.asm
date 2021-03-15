@@ -1,4 +1,4 @@
-    push 100
+    push 99
 print_next_number: jumpz exit
     load
     store
