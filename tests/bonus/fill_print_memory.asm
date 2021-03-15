@@ -31,7 +31,7 @@ done_fill: stack
 
 
 nop Print Memory
-    push 1023
+    push 99
 next_print: jumpz exit
     load
     store
