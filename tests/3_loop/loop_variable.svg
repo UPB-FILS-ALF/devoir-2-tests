@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- loop = 30 -->
+	<!-- a = 100 -->
+	<!-- b = 200 -->
+	<!-- loop loop: 30 -->
+	<!-- loop #0 -->
+		<!-- fill 20, 0, 200 -->
+		<!-- pen 20, 0, 200 -->
+		<circle cx="100" cy="200" r="100" stroke="rgb(20,0,200)"  stroke-width="1" fill="rgb(20,0,200)"/>
+		<!-- a = a - 3 : 97 -->
+		<!-- b = b - 10 : 190 -->
+		<!-- repeat -->
+	<!-- loop #1 -->
+		<!-- fill 20, 0, 190 -->
+		<!-- pen 20, 0, 190 -->
+		<circle cx="97" cy="200" r="100" stroke="rgb(20,0,190)"  stroke-width="1" fill="rgb(20,0,190)"/>
+		<!-- a = a - 3 : 94 -->
+		<!-- b = b - 10 : 180 -->
+		<!-- repeat -->
+	<!-- loop #2 -->
+		<!-- fill 20, 0, 180 -->
+		<!-- pen 20, 0, 180 -->
+		<circle cx="94" cy="200" r="100" stroke="rgb(20,0,180)"  stroke-width="1" fill="rgb(20,0,180)"/>
+		<!-- a = a - 3 : 91 -->
+		<!-- b = b - 10 : 170 -->
+		<!-- repeat -->
+	<!-- loop #3 -->
+		<!-- fill 20, 0, 170 -->
+		<!-- pen 20, 0, 170 -->
+		<circle cx="91" cy="200" r="100" stroke="rgb(20,0,170)"  stroke-width="1" fill="rgb(20,0,170)"/>
+		<!-- a = a - 3 : 88 -->
+		<!-- b = b - 10 : 160 -->
+		<!-- repeat -->
+	<!-- loop #4 -->
+		<!-- fill 20, 0, 160 -->
+		<!-- pen 20, 0, 160 -->
+		<circle cx="88" cy="200" r="100" stroke="rgb(20,0,160)"  stroke-width="1" fill="rgb(20,0,160)"/>
+		<!-- a = a - 3 : 85 -->
+		<!-- b = b - 10 : 150 -->
+		<!-- repeat -->
+	<!-- loop #5 -->
+		<!-- fill 20, 0, 150 -->
+		<!-- pen 20, 0, 150 -->
+		<circle cx="85" cy="200" r="100" stroke="rgb(20,0,150)"  stroke-width="1" fill="rgb(20,0,150)"/>
+		<!-- a = a - 3 : 82 -->
+		<!-- b = b - 10 : 140 -->
+		<!-- repeat -->
+	<!-- loop #6 -->
+		<!-- fill 20, 0, 140 -->
+		<!-- pen 20, 0, 140 -->
+		<circle cx="82" cy="200" r="100" stroke="rgb(20,0,140)"  stroke-width="1" fill="rgb(20,0,140)"/>
+		<!-- a = a - 3 : 79 -->
+		<!-- b = b - 10 : 130 -->
+		<!-- repeat -->
+	<!-- loop #7 -->
+		<!-- fill 20, 0, 130 -->
+		<!-- pen 20, 0, 130 -->
+		<circle cx="79" cy="200" r="100" stroke="rgb(20,0,130)"  stroke-width="1" fill="rgb(20,0,130)"/>
+		<!-- a = a - 3 : 76 -->
+		<!-- b = b - 10 : 120 -->
+		<!-- repeat -->
+	<!-- loop #8 -->
+		<!-- fill 20, 0, 120 -->
+		<!-- pen 20, 0, 120 -->
+		<circle cx="76" cy="200" r="100" stroke="rgb(20,0,120)"  stroke-width="1" fill="rgb(20,0,120)"/>
+		<!-- a = a - 3 : 73 -->
+		<!-- b = b - 10 : 110 -->
+		<!-- repeat -->
+	<!-- loop #9 -->
+		<!-- fill 20, 0, 110 -->
+		<!-- pen 20, 0, 110 -->
+		<circle cx="73" cy="200" r="100" stroke="rgb(20,0,110)"  stroke-width="1" fill="rgb(20,0,110)"/>
+		<!-- a = a - 3 : 70 -->
+		<!-- b = b - 10 : 100 -->
+		<!-- repeat -->
+	<!-- loop #10 -->
+		<!-- fill 20, 0, 100 -->
+		<!-- pen 20, 0, 100 -->
+		<circle cx="70" cy="200" r="100" stroke="rgb(20,0,100)"  stroke-width="1" fill="rgb(20,0,100)"/>
+		<!-- a = a - 3 : 67 -->
+		<!-- b = b - 10 : 90 -->
+		<!-- repeat -->
+	<!-- loop #11 -->
+		<!-- fill 20, 0, 90 -->
+		<!-- pen 20, 0, 90 -->
+		<circle cx="67" cy="200" r="100" stroke="rgb(20,0,90)"  stroke-width="1" fill="rgb(20,0,90)"/>
+		<!-- a = a - 3 : 64 -->
+		<!-- b = b - 10 : 80 -->
+		<!-- repeat -->
+	<!-- loop #12 -->
+		<!-- fill 20, 0, 80 -->
+		<!-- pen 20, 0, 80 -->
+		<circle cx="64" cy="200" r="100" stroke="rgb(20,0,80)"  stroke-width="1" fill="rgb(20,0,80)"/>
+		<!-- a = a - 3 : 61 -->
+		<!-- b = b - 10 : 70 -->
+		<!-- repeat -->
+	<!-- loop #13 -->
+		<!-- fill 20, 0, 70 -->
+		<!-- pen 20, 0, 70 -->
+		<circle cx="61" cy="200" r="100" stroke="rgb(20,0,70)"  stroke-width="1" fill="rgb(20,0,70)"/>
+		<!-- a = a - 3 : 58 -->
+		<!-- b = b - 10 : 60 -->
+		<!-- repeat -->
+	<!-- loop #14 -->
+		<!-- fill 20, 0, 60 -->
+		<!-- pen 20, 0, 60 -->
+		<circle cx="58" cy="200" r="100" stroke="rgb(20,0,60)"  stroke-width="1" fill="rgb(20,0,60)"/>
+		<!-- a = a - 3 : 55 -->
+		<!-- b = b - 10 : 50 -->
+		<!-- repeat -->
+	<!-- loop #15 -->
+		<!-- fill 20, 0, 50 -->
+		<!-- pen 20, 0, 50 -->
+		<circle cx="55" cy="200" r="100" stroke="rgb(20,0,50)"  stroke-width="1" fill="rgb(20,0,50)"/>
+		<!-- a = a - 3 : 52 -->
+		<!-- b = b - 10 : 40 -->
+		<!-- repeat -->
+	<!-- loop #16 -->
+		<!-- fill 20, 0, 40 -->
+		<!-- pen 20, 0, 40 -->
+		<circle cx="52" cy="200" r="100" stroke="rgb(20,0,40)"  stroke-width="1" fill="rgb(20,0,40)"/>
+		<!-- a = a - 3 : 49 -->
+		<!-- b = b - 10 : 30 -->
+		<!-- repeat -->
+	<!-- loop #17 -->
+		<!-- fill 20, 0, 30 -->
+		<!-- pen 20, 0, 30 -->
+		<circle cx="49" cy="200" r="100" stroke="rgb(20,0,30)"  stroke-width="1" fill="rgb(20,0,30)"/>
+		<!-- a = a - 3 : 46 -->
+		<!-- b = b - 10 : 20 -->
+		<!-- repeat -->
+	<!-- loop #18 -->
+		<!-- fill 20, 0, 20 -->
+		<!-- pen 20, 0, 20 -->
+		<circle cx="46" cy="200" r="100" stroke="rgb(20,0,20)"  stroke-width="1" fill="rgb(20,0,20)"/>
+		<!-- a = a - 3 : 43 -->
+		<!-- b = b - 10 : 10 -->
+		<!-- repeat -->
+	<!-- loop #19 -->
+		<!-- fill 20, 0, 10 -->
+		<!-- pen 20, 0, 10 -->
+		<circle cx="43" cy="200" r="100" stroke="rgb(20,0,10)"  stroke-width="1" fill="rgb(20,0,10)"/>
+		<!-- a = a - 3 : 40 -->
+		<!-- b = b - 10 : 0 -->
+		<!-- repeat -->
+	<!-- loop #20 -->
+		<!-- fill 20, 0, 0 -->
+		<!-- pen 20, 0, 0 -->
+		<circle cx="40" cy="200" r="100" stroke="rgb(20,0,0)"  stroke-width="1" fill="rgb(20,0,0)"/>
+		<!-- a = a - 3 : 37 -->
+		<!-- b = b - 10 : -10 -->
+		<!-- repeat -->
+	<!-- loop #21 -->
+		<!-- fill 20, 0, -10 -->
+		<!-- pen 20, 0, -10 -->
+		<circle cx="37" cy="200" r="100" stroke="rgb(20,0,-10)"  stroke-width="1" fill="rgb(20,0,-10)"/>
+		<!-- a = a - 3 : 34 -->
+		<!-- b = b - 10 : -20 -->
+		<!-- repeat -->
+	<!-- loop #22 -->
+		<!-- fill 20, 0, -20 -->
+		<!-- pen 20, 0, -20 -->
+		<circle cx="34" cy="200" r="100" stroke="rgb(20,0,-20)"  stroke-width="1" fill="rgb(20,0,-20)"/>
+		<!-- a = a - 3 : 31 -->
+		<!-- b = b - 10 : -30 -->
+		<!-- repeat -->
+	<!-- loop #23 -->
+		<!-- fill 20, 0, -30 -->
+		<!-- pen 20, 0, -30 -->
+		<circle cx="31" cy="200" r="100" stroke="rgb(20,0,-30)"  stroke-width="1" fill="rgb(20,0,-30)"/>
+		<!-- a = a - 3 : 28 -->
+		<!-- b = b - 10 : -40 -->
+		<!-- repeat -->
+	<!-- loop #24 -->
+		<!-- fill 20, 0, -40 -->
+		<!-- pen 20, 0, -40 -->
+		<circle cx="28" cy="200" r="100" stroke="rgb(20,0,-40)"  stroke-width="1" fill="rgb(20,0,-40)"/>
+		<!-- a = a - 3 : 25 -->
+		<!-- b = b - 10 : -50 -->
+		<!-- repeat -->
+	<!-- loop #25 -->
+		<!-- fill 20, 0, -50 -->
+		<!-- pen 20, 0, -50 -->
+		<circle cx="25" cy="200" r="100" stroke="rgb(20,0,-50)"  stroke-width="1" fill="rgb(20,0,-50)"/>
+		<!-- a = a - 3 : 22 -->
+		<!-- b = b - 10 : -60 -->
+		<!-- repeat -->
+	<!-- loop #26 -->
+		<!-- fill 20, 0, -60 -->
+		<!-- pen 20, 0, -60 -->
+		<circle cx="22" cy="200" r="100" stroke="rgb(20,0,-60)"  stroke-width="1" fill="rgb(20,0,-60)"/>
+		<!-- a = a - 3 : 19 -->
+		<!-- b = b - 10 : -70 -->
+		<!-- repeat -->
+	<!-- loop #27 -->
+		<!-- fill 20, 0, -70 -->
+		<!-- pen 20, 0, -70 -->
+		<circle cx="19" cy="200" r="100" stroke="rgb(20,0,-70)"  stroke-width="1" fill="rgb(20,0,-70)"/>
+		<!-- a = a - 3 : 16 -->
+		<!-- b = b - 10 : -80 -->
+		<!-- repeat -->
+	<!-- loop #28 -->
+		<!-- fill 20, 0, -80 -->
+		<!-- pen 20, 0, -80 -->
+		<circle cx="16" cy="200" r="100" stroke="rgb(20,0,-80)"  stroke-width="1" fill="rgb(20,0,-80)"/>
+		<!-- a = a - 3 : 13 -->
+		<!-- b = b - 10 : -90 -->
+		<!-- repeat -->
+	<!-- loop #29 -->
+		<!-- fill 20, 0, -90 -->
+		<!-- pen 20, 0, -90 -->
+		<circle cx="13" cy="200" r="100" stroke="rgb(20,0,-90)"  stroke-width="1" fill="rgb(20,0,-90)"/>
+		<!-- a = a - 3 : 10 -->
+		<!-- b = b - 10 : -100 -->
+		<!-- repeat -->
+</svg>

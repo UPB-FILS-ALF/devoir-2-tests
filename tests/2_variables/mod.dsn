@@ -1,0 +1,4 @@
+&Set Variable
+SET: %s 100
+MOD: %s 60
+CIRCLE: %s 120 120 

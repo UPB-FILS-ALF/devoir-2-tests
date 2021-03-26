@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- a = 2 -->
+	<!-- if a: 2 -->
+		<!-- fill 200, 0, 100 -->
+		<ellipse cx="150" cy="100" rx="300" ry="300" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(200,0,100)"/>
+		<!-- else -->
+		<!-- end -->
+</svg>

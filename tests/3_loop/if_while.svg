@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- x = 10 -->
+	<!-- i = 3 -->
+	<!-- while i: 3 -->
+	<!-- while #0 i: 3 -->
+		<!-- position 10, 0 -->
+		<!-- aux = 3 -->
+		<!-- aux = aux + 2 : 1 -->
+		<!-- if aux: 1 -->
+			<line x1="10" y1="0" x2="10" y2="100" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<circle cx="100" cy="10" r="300" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- position 10, 600 -->
+			<line x1="10" y1="600" x2="10" y2="700" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<circle cx="100" cy="10" r="900" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- position 10, 1100 -->
+			<line x1="10" y1="1100" x2="10" y2="1200" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<!-- else -->
+			<!-- end -->
+		<!-- i = i - 1 : 2 -->
+		<!-- x = x + 300 : 310 -->
+		<!-- repeat -->
+	<!-- while #1 i: 2 -->
+		<!-- position 310, 0 -->
+		<!-- aux = 2 -->
+		<!-- aux = aux + 2 : 0 -->
+		<!-- if aux: 0 -->
+			<!-- else -->
+			<circle cx="100" cy="310" r="100" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- position 310, 300 -->
+			<line x1="310" y1="300" x2="310" y2="400" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<circle cx="100" cy="310" r="600" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- position 310, 800 -->
+			<line x1="310" y1="800" x2="310" y2="900" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<circle cx="100" cy="310" r="1100" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- end -->
+		<!-- i = i - 1 : 1 -->
+		<!-- x = x + 300 : 610 -->
+		<!-- repeat -->
+	<!-- while #2 i: 1 -->
+		<!-- position 610, 0 -->
+		<!-- aux = 1 -->
+		<!-- aux = aux + 2 : 1 -->
+		<!-- if aux: 1 -->
+			<line x1="610" y1="0" x2="610" y2="100" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<circle cx="100" cy="610" r="300" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- position 610, 600 -->
+			<line x1="610" y1="600" x2="610" y2="700" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<circle cx="100" cy="610" r="900" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+			<!-- position 610, 1100 -->
+			<line x1="610" y1="1100" x2="610" y2="1200" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<!-- else -->
+			<!-- end -->
+		<!-- i = i - 1 : 0 -->
+		<!-- x = x + 300 : 910 -->
+		<!-- repeat -->
+	<!-- position 0, 1000 -->
+	<line x1="0" y1="1000" x2="1500" y2="1000" stroke="rgb(0,0,0)"  stroke-width="1" />
+</svg>

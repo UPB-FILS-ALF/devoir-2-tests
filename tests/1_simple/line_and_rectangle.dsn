@@ -1,0 +1,10 @@
+& Line and rectangle
+POSITION: 50 50
+LINE:   250 50 location
+LINE:     250 250 location
+LINE:  100 30 polar
+
+COLOR:  pen 255 0    0
+LINE:  300 60 polar
+COLOR:  fill 0  255   0
+RECTANGLE: 100 100 500 500

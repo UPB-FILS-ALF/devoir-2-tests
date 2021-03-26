@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- i = 5 -->
+	<!-- j = 30 -->
+	<!-- x1 = 25 -->
+	<!-- y1 = 100 -->
+	<!-- x2 = 200 -->
+	<!-- y2 = 250 -->
+	<!-- loop i: 5 -->
+	<!-- loop #0 -->
+		<!-- fill 10, 200, 100 -->
+		<!-- pen 10, 200, 100 -->
+		<polygon points="25,100 200,100 200,250 25,250" stroke="rgb(10,200,100)"  stroke-width="1"  fill="rgb(10,200,100)"/>
+		<!-- radius = 60 -->
+		<!-- y = 100 -->
+		<!-- y = y + 75 : 175 -->
+		<!-- x = 25 -->
+		<!-- x = x + 85 : 110 -->
+		<!-- r = 200 -->
+		<!-- g = 10 -->
+		<!-- b = 200 -->
+		<!-- loop j: 30 -->
+		<!-- loop #0 -->
+			<!-- fill 200, 10, 200 -->
+			<!-- pen 200, 10, 200 -->
+			<circle cx="60" cy="110" r="175" stroke="rgb(200,10,200)"  stroke-width="1" fill="rgb(200,10,200)"/>
+			<!-- radius = radius - 2 : 58 -->
+			<!-- r = r - 5 : 195 -->
+			<!-- g = g + 2 : 12 -->
+			<!-- b = b - 5 : 195 -->
+			<!-- repeat -->
+		<!-- loop #1 -->
+			<!-- fill 195, 12, 195 -->
+			<!-- pen 195, 12, 195 -->
+			<circle cx="58" cy="110" r="175" stroke="rgb(195,12,195)"  stroke-width="1" fill="rgb(195,12,195)"/>
+			<!-- radius = radius - 2 : 56 -->
+			<!-- r = r - 5 : 190 -->
+			<!-- g = g + 2 : 14 -->
+			<!-- b = b - 5 : 190 -->
+			<!-- repeat -->
+		<!-- loop #2 -->
+			<!-- fill 190, 14, 190 -->
+			<!-- pen 190, 14, 190 -->
+			<circle cx="56" cy="110" r="175" stroke="rgb(190,14,190)"  stroke-width="1" fill="rgb(190,14,190)"/>
+			<!-- radius = radius - 2 : 54 -->
+			<!-- r = r - 5 : 185 -->
+			<!-- g = g + 2 : 16 -->
+			<!-- b = b - 5 : 185 -->
+			<!-- repeat -->
+		<!-- loop #3 -->
+			<!-- fill 185, 16, 185 -->
+			<!-- pen 185, 16, 185 -->
+			<circle cx="54" cy="110" r="175" stroke="rgb(185,16,185)"  stroke-width="1" fill="rgb(185,16,185)"/>
+			<!-- radius = radius - 2 : 52 -->
+			<!-- r = r - 5 : 180 -->
+			<!-- g = g + 2 : 18 -->
+			<!-- b = b - 5 : 180 -->
+			<!-- repeat -->
+		<!-- loop #4 -->
+			<!-- fill 180, 18, 180 -->
+			<!-- pen 180, 18, 180 -->
+			<circle cx="52" cy="110" r="175" stroke="rgb(180,18,180)"  stroke-width="1" fill="rgb(180,18,180)"/>
+			<!-- radius = radius - 2 : 50 -->
+			<!-- r = r - 5 : 175 -->
+			<!-- g = g + 2 : 20 -->
+			<!-- b = b - 5 : 175 -->
+			<!-- repeat -->
+		<!-- loop #5 -->
+			<!-- fill 175, 20, 175 -->
+			<!-- pen 175, 20, 175 -->
+			<circle cx="50" cy="110" r="175" stroke="rgb(175,20,175)"  stroke-width="1" fill="rgb(175,20,175)"/>
+			<!-- radius = radius - 2 : 48 -->
+			<!-- r = r - 5 : 170 -->
+			<!-- g = g + 2 : 22 -->
+			<!-- b = b - 5 : 170 -->
+			<!-- repeat -->
+		<!-- loop #6 -->
+			<!-- fill 170, 22, 170 -->
+			<!-- pen 170, 22, 170 -->
+			<circle cx="48" cy="110" r="175" stroke="rgb(170,22,170)"  stroke-width="1" fill="rgb(170,22,170)"/>
+			<!-- radius = radius - 2 : 46 -->
+			<!-- r = r - 5 : 165 -->
+			<!-- g = g + 2 : 24 -->
+			<!-- b = b - 5 : 165 -->
+			<!-- repeat -->
+		<!-- loop #7 -->
+			<!-- fill 165, 24, 165 -->
+			<!-- pen 165, 24, 165 -->
+			<circle cx="46" cy="110" r="175" stroke="rgb(165,24,165)"  stroke-width="1" fill="rgb(165,24,165)"/>
+			<!-- radius = radius - 2 : 44 -->
+			<!-- r = r - 5 : 160 -->
+			<!-- g = g + 2 : 26 -->
+			<!-- b = b - 5 : 160 -->
+			<!-- repeat -->
+		<!-- loop #8 -->
+			<!-- fill 160, 26, 160 -->
+			<!-- pen 160, 26, 160 -->
+			<circle cx="44" cy="110" r="175" stroke="rgb(160,26,160)"  stroke-width="1" fill="rgb(160,26,160)"/>
+			<!-- radius = radius - 2 : 42 -->
+			<!-- r = r - 5 : 155 -->
+			<!-- g = g + 2 : 28 -->
+			<!-- b = b - 5 : 155 -->
+			<!-- repeat -->
+		<!-- loop #9 -->
+			<!-- fill 155, 28, 155 -->
+			<!-- pen 155, 28, 155 -->
+			<circle cx="42" cy="110" r="175" stroke="rgb(155,28,155)"  stroke-width="1" fill="rgb(155,28,155)"/>
+			<!-- radius = radius - 2 : 40 -->
+			<!-- r = r - 5 : 150 -->
+			<!-- g = g + 2 : 30 -->
+			<!-- b = b - 5 : 150 -->
+			<!-- repeat -->
+		<!-- loop #10 -->
+			<!-- fill 150, 30, 150 -->
+			<!-- pen 150, 30, 150 -->
+			<circle cx="40" cy="110" r="175" stroke="rgb(150,30,150)"  stroke-width="1" fill="rgb(150,30,150)"/>
+			<!-- radius = radius - 2 : 38 -->
+			<!-- r = r - 5 : 145 -->
+			<!-- g = g + 2 : 32 -->
+			<!-- b = b - 5 : 145 -->
+			<!-- repeat -->
+		<!-- loop #11 -->
+			<!-- fill 145, 32, 145 -->
+			<!-- pen 145, 32, 145 -->
+			<circle cx="38" cy="110" r="175" stroke="rgb(145,32,145)"  stroke-width="1" fill="rgb(145,32,145)"/>
+			<!-- radius = radius - 2 : 36 -->
+			<!-- r = r - 5 : 140 -->
+			<!-- g = g + 2 : 34 -->
+			<!-- b = b - 5 : 140 -->
+			<!-- repeat -->
+		<!-- loop #12 -->
+			<!-- fill 140, 34, 140 -->
+			<!-- pen 140, 34, 140 -->
+			<circle cx="36" cy="110" r="175" stroke="rgb(140,34,140)"  stroke-width="1" fill="rgb(140,34,140)"/>
+			<!-- radius = radius - 2 : 34 -->
+			<!-- r = r - 5 : 135 -->
+			<!-- g = g + 2 : 36 -->
+			<!-- b = b - 5 : 135 -->
+			<!-- repeat -->
+		<!-- loop #13 -->
+			<!-- fill 135, 36, 135 -->
+			<!-- pen 135, 36, 135 -->
+			<circle cx="34" cy="110" r="175" stroke="rgb(135,36,135)"  stroke-width="1" fill="rgb(135,36,135)"/>
+			<!-- radius = radius - 2 : 32 -->
+			<!-- r = r - 5 : 130 -->
+			<!-- g = g + 2 : 38 -->
+			<!-- b = b - 5 : 130 -->
+			<!-- repeat -->
+		<!-- loop #14 -->
+			<!-- fill 130, 38, 130 -->
+			<!-- pen 130, 38, 130 -->
+			<circle cx="32" cy="110" r="175" stroke="rgb(130,38,130)"  stroke-width="1" fill="rgb(130,38,130)"/>
+			<!-- radius = radius - 2 : 30 -->
+			<!-- r = r - 5 : 125 -->
+			<!-- g = g + 2 : 40 -->
+			<!-- b = b - 5 : 125 -->
+			<!-- repeat -->
+		<!-- loop #15 -->
+			<!-- fill 125, 40, 125 -->
+			<!-- pen 125, 40, 125 -->
+			<circle cx="30" cy="110" r="175" stroke="rgb(125,40,125)"  stroke-width="1" fill="rgb(125,40,125)"/>
+			<!-- radius = radius - 2 : 28 -->
+			<!-- r = r - 5 : 120 -->
+			<!-- g = g + 2 : 42 -->
+			<!-- b = b - 5 : 120 -->
+			<!-- repeat -->
+		<!-- loop #16 -->
+			<!-- fill 120, 42, 120 -->
+			<!-- pen 120, 42, 120 -->
+			<circle cx="28" cy="110" r="175" stroke="rgb(120,42,120)"  stroke-width="1" fill="rgb(120,42,120)"/>
+			<!-- radius = radius - 2 : 26 -->
+			<!-- r = r - 5 : 115 -->
+			<!-- g = g + 2 : 44 -->
+			<!-- b = b - 5 : 115 -->
+			<!-- repeat -->
+		<!-- loop #17 -->
+			<!-- fill 115, 44, 115 -->
+			<!-- pen 115, 44, 115 -->
+			<circle cx="26" cy="110" r="175" stroke="rgb(115,44,115)"  stroke-width="1" fill="rgb(115,44,115)"/>
+			<!-- radius = radius - 2 : 24 -->
+			<!-- r = r - 5 : 110 -->
+			<!-- g = g + 2 : 46 -->
+			<!-- b = b - 5 : 110 -->
+			<!-- repeat -->
+		<!-- loop #18 -->
+			<!-- fill 110, 46, 110 -->
+			<!-- pen 110, 46, 110 -->
+			<circle cx="24" cy="110" r="175" stroke="rgb(110,46,110)"  stroke-width="1" fill="rgb(110,46,110)"/>
+			<!-- radius = radius - 2 : 22 -->
+			<!-- r = r - 5 : 105 -->
+			<!-- g = g + 2 : 48 -->
+			<!-- b = b - 5 : 105 -->
+			<!-- repeat -->
+		<!-- loop #19 -->
+			<!-- fill 105, 48, 105 -->
+			<!-- pen 105, 48, 105 -->
+			<circle cx="22" cy="110" r="175" stroke="rgb(105,48,105)"  stroke-width="1" fill="rgb(105,48,105)"/>
+			<!-- radius = radius - 2 : 20 -->
+			<!-- r = r - 5 : 100 -->
+			<!-- g = g + 2 : 50 -->
+			<!-- b = b - 5 : 100 -->
+			<!-- repeat -->
+		<!-- loop #20 -->
+			<!-- fill 100, 50, 100 -->
+			<!-- pen 100, 50, 100 -->
+			<circle cx="20" cy="110" r="175" stroke="rgb(100,50,100)"  stroke-width="1" fill="rgb(100,50,100)"/>
+			<!-- radius = radius - 2 : 18 -->
+			<!-- r = r - 5 : 95 -->
+			<!-- g = g + 2 : 52 -->
+			<!-- b = b - 5 : 95 -->
+			<!-- repeat -->
+		<!-- loop #21 -->
+			<!-- fill 95, 52, 95 -->
+			<!-- pen 95, 52, 95 -->
+			<circle cx="18" cy="110" r="175" stroke="rgb(95,52,95)"  stroke-width="1" fill="rgb(95,52,95)"/>
+			<!-- radius = radius - 2 : 16 -->
+			<!-- r = r - 5 : 90 -->
+			<!-- g = g + 2 : 54 -->
+			<!-- b = b - 5 : 90 -->
+			<!-- repeat -->
+		<!-- loop #22 -->
+			<!-- fill 90, 54, 90 -->
+			<!-- pen 90, 54, 90 -->
+			<circle cx="16" cy="110" r="175" stroke="rgb(90,54,90)"  stroke-width="1" fill="rgb(90,54,90)"/>
+			<!-- radius = radius - 2 : 14 -->
+			<!-- r = r - 5 : 85 -->
+			<!-- g = g + 2 : 56 -->
+			<!-- b = b - 5 : 85 -->
+			<!-- repeat -->
+		<!-- loop #23 -->
+			<!-- fill 85, 56, 85 -->
+			<!-- pen 85, 56, 85 -->
+			<circle cx="14" cy="110" r="175" stroke="rgb(85,56,85)"  stroke-width="1" fill="rgb(85,56,85)"/>
+			<!-- radius = radius - 2 : 12 -->
+			<!-- r = r - 5 : 80 -->
+			<!-- g = g + 2 : 58 -->
+			<!-- b = b - 5 : 80 -->
+			<!-- repeat -->
+		<!-- loop #24 -->
+			<!-- fill 80, 58, 80 -->
+			<!-- pen 80, 58, 80 -->
+			<circle cx="12" cy="110" r="175" stroke="rgb(80,58,80)"  stroke-width="1" fill="rgb(80,58,80)"/>
+			<!-- radius = radius - 2 : 10 -->
+			<!-- r = r - 5 : 75 -->
+			<!-- g = g + 2 : 60 -->
+			<!-- b = b - 5 : 75 -->
+			<!-- repeat -->
+		<!-- loop #25 -->
+			<!-- fill 75, 60, 75 -->
+			<!-- pen 75, 60, 75 -->
+			<circle cx="10" cy="110" r="175" stroke="rgb(75,60,75)"  stroke-width="1" fill="rgb(75,60,75)"/>
+			<!-- radius = radius - 2 : 8 -->
+			<!-- r = r - 5 : 70 -->
+			<!-- g = g + 2 : 62 -->
+			<!-- b = b - 5 : 70 -->
+			<!-- repeat -->
+		<!-- loop #26 -->
+			<!-- fill 70, 62, 70 -->
+			<!-- pen 70, 62, 70 -->
+			<circle cx="8" cy="110" r="175" stroke="rgb(70,62,70)"  stroke-width="1" fill="rgb(70,62,70)"/>
+			<!-- radius = radius - 2 : 6 -->
+			<!-- r = r - 5 : 65 -->
+			<!-- g = g + 2 : 64 -->
+			<!-- b = b - 5 : 65 -->
+			<!-- repeat -->
+		<!-- loop #27 -->
+			<!-- fill 65, 64, 65 -->
+			<!-- pen 65, 64, 65 -->
+			<circle cx="6" cy="110" r="175" stroke="rgb(65,64,65)"  stroke-width="1" fill="rgb(65,64,65)"/>
+			<!-- radius = radius - 2 : 4 -->
+			<!-- r = r - 5 : 60 -->
+			<!-- g = g + 2 : 66 -->
+			<!-- b = b - 5 : 60 -->
+			<!-- repeat -->
+		<!-- loop #28 -->
+			<!-- fill 60, 66, 60 -->
+			<!-- pen 60, 66, 60 -->
+			<circle cx="4" cy="110" r="175" stroke="rgb(60,66,60)"  stroke-width="1" fill="rgb(60,66,60)"/>
+			<!-- radius = radius - 2 : 2 -->
+			<!-- r = r - 5 : 55 -->
+			<!-- g = g + 2 : 68 -->
+			<!-- b = b - 5 : 55 -->
+			<!-- repeat -->
+		<!-- loop #29 -->
+			<!-- fill 55, 68, 55 -->
+			<!-- pen 55, 68, 55 -->
+			<circle cx="2" cy="110" r="175" stroke="rgb(55,68,55)"  stroke-width="1" fill="rgb(55,68,55)"/>
+			<!-- radius = radius - 2 : 0 -->
+			<!-- r = r - 5 : 50 -->
+			<!-- g = g + 2 : 70 -->
+			<!-- b = b - 5 : 50 -->
+			<!-- repeat -->
+		<!-- x1 = x1 + 200 : 225 -->
+		<!-- x2 = x2 + 200 : 400 -->
+		<!-- repeat -->
+	<!-- loop #1 -->
+		<!-- fill 10, 200, 100 -->
+		<!-- pen 10, 200, 100 -->
+		<polygon points="225,100 400,100 400,250 225,250" stroke="rgb(10,200,100)"  stroke-width="1"  fill="rgb(10,200,100)"/>
+		<!-- radius = 60 -->
+		<!-- y = 100 -->
+		<!-- y = y + 75 : 175 -->
+		<!-- x = 225 -->
+		<!-- x = x + 85 : 310 -->
+		<!-- r = 200 -->
+		<!-- g = 10 -->
+		<!-- b = 200 -->
+		<!-- loop j: 30 -->
+		<!-- loop #0 -->
+			<!-- fill 200, 10, 200 -->
+			<!-- pen 200, 10, 200 -->
+			<circle cx="60" cy="310" r="175" stroke="rgb(200,10,200)"  stroke-width="1" fill="rgb(200,10,200)"/>
+			<!-- radius = radius - 2 : 58 -->
+			<!-- r = r - 5 : 195 -->
+			<!-- g = g + 2 : 12 -->
+			<!-- b = b - 5 : 195 -->
+			<!-- repeat -->
+		<!-- loop #1 -->
+			<!-- fill 195, 12, 195 -->
+			<!-- pen 195, 12, 195 -->
+			<circle cx="58" cy="310" r="175" stroke="rgb(195,12,195)"  stroke-width="1" fill="rgb(195,12,195)"/>
+			<!-- radius = radius - 2 : 56 -->
+			<!-- r = r - 5 : 190 -->
+			<!-- g = g + 2 : 14 -->
+			<!-- b = b - 5 : 190 -->
+			<!-- repeat -->
+		<!-- loop #2 -->
+			<!-- fill 190, 14, 190 -->
+			<!-- pen 190, 14, 190 -->
+			<circle cx="56" cy="310" r="175" stroke="rgb(190,14,190)"  stroke-width="1" fill="rgb(190,14,190)"/>
+			<!-- radius = radius - 2 : 54 -->
+			<!-- r = r - 5 : 185 -->
+			<!-- g = g + 2 : 16 -->
+			<!-- b = b - 5 : 185 -->
+			<!-- repeat -->
+		<!-- loop #3 -->
+			<!-- fill 185, 16, 185 -->
+			<!-- pen 185, 16, 185 -->
+			<circle cx="54" cy="310" r="175" stroke="rgb(185,16,185)"  stroke-width="1" fill="rgb(185,16,185)"/>
+			<!-- radius = radius - 2 : 52 -->
+			<!-- r = r - 5 : 180 -->
+			<!-- g = g + 2 : 18 -->
+			<!-- b = b - 5 : 180 -->
+			<!-- repeat -->
+		<!-- loop #4 -->
+			<!-- fill 180, 18, 180 -->
+			<!-- pen 180, 18, 180 -->
+			<circle cx="52" cy="310" r="175" stroke="rgb(180,18,180)"  stroke-width="1" fill="rgb(180,18,180)"/>
+			<!-- radius = radius - 2 : 50 -->
+			<!-- r = r - 5 : 175 -->
+			<!-- g = g + 2 : 20 -->
+			<!-- b = b - 5 : 175 -->
+			<!-- repeat -->
+		<!-- loop #5 -->
+			<!-- fill 175, 20, 175 -->
+			<!-- pen 175, 20, 175 -->
+			<circle cx="50" cy="310" r="175" stroke="rgb(175,20,175)"  stroke-width="1" fill="rgb(175,20,175)"/>
+			<!-- radius = radius - 2 : 48 -->
+			<!-- r = r - 5 : 170 -->
+			<!-- g = g + 2 : 22 -->
+			<!-- b = b - 5 : 170 -->
+			<!-- repeat -->
+		<!-- loop #6 -->
+			<!-- fill 170, 22, 170 -->
+			<!-- pen 170, 22, 170 -->
+			<circle cx="48" cy="310" r="175" stroke="rgb(170,22,170)"  stroke-width="1" fill="rgb(170,22,170)"/>
+			<!-- radius = radius - 2 : 46 -->
+			<!-- r = r - 5 : 165 -->
+			<!-- g = g + 2 : 24 -->
+			<!-- b = b - 5 : 165 -->
+			<!-- repeat -->
+		<!-- loop #7 -->
+			<!-- fill 165, 24, 165 -->
+			<!-- pen 165, 24, 165 -->
+			<circle cx="46" cy="310" r="175" stroke="rgb(165,24,165)"  stroke-width="1" fill="rgb(165,24,165)"/>
+			<!-- radius = radius - 2 : 44 -->
+			<!-- r = r - 5 : 160 -->
+			<!-- g = g + 2 : 26 -->
+			<!-- b = b - 5 : 160 -->
+			<!-- repeat -->
+		<!-- loop #8 -->
+			<!-- fill 160, 26, 160 -->
+			<!-- pen 160, 26, 160 -->
+			<circle cx="44" cy="310" r="175" stroke="rgb(160,26,160)"  stroke-width="1" fill="rgb(160,26,160)"/>
+			<!-- radius = radius - 2 : 42 -->
+			<!-- r = r - 5 : 155 -->
+			<!-- g = g + 2 : 28 -->
+			<!-- b = b - 5 : 155 -->
+			<!-- repeat -->
+		<!-- loop #9 -->
+			<!-- fill 155, 28, 155 -->
+			<!-- pen 155, 28, 155 -->
+			<circle cx="42" cy="310" r="175" stroke="rgb(155,28,155)"  stroke-width="1" fill="rgb(155,28,155)"/>
+			<!-- radius = radius - 2 : 40 -->
+			<!-- r = r - 5 : 150 -->
+			<!-- g = g + 2 : 30 -->
+			<!-- b = b - 5 : 150 -->
+			<!-- repeat -->
+		<!-- loop #10 -->
+			<!-- fill 150, 30, 150 -->
+			<!-- pen 150, 30, 150 -->
+			<circle cx="40" cy="310" r="175" stroke="rgb(150,30,150)"  stroke-width="1" fill="rgb(150,30,150)"/>
+			<!-- radius = radius - 2 : 38 -->
+			<!-- r = r - 5 : 145 -->
+			<!-- g = g + 2 : 32 -->
+			<!-- b = b - 5 : 145 -->
+			<!-- repeat -->
+		<!-- loop #11 -->
+			<!-- fill 145, 32, 145 -->
+			<!-- pen 145, 32, 145 -->
+			<circle cx="38" cy="310" r="175" stroke="rgb(145,32,145)"  stroke-width="1" fill="rgb(145,32,145)"/>
+			<!-- radius = radius - 2 : 36 -->
+			<!-- r = r - 5 : 140 -->
+			<!-- g = g + 2 : 34 -->
+			<!-- b = b - 5 : 140 -->
+			<!-- repeat -->
+		<!-- loop #12 -->
+			<!-- fill 140, 34, 140 -->
+			<!-- pen 140, 34, 140 -->
+			<circle cx="36" cy="310" r="175" stroke="rgb(140,34,140)"  stroke-width="1" fill="rgb(140,34,140)"/>
+			<!-- radius = radius - 2 : 34 -->
+			<!-- r = r - 5 : 135 -->
+			<!-- g = g + 2 : 36 -->
+			<!-- b = b - 5 : 135 -->
+			<!-- repeat -->
+		<!-- loop #13 -->
+			<!-- fill 135, 36, 135 -->
+			<!-- pen 135, 36, 135 -->
+			<circle cx="34" cy="310" r="175" stroke="rgb(135,36,135)"  stroke-width="1" fill="rgb(135,36,135)"/>
+			<!-- radius = radius - 2 : 32 -->
+			<!-- r = r - 5 : 130 -->
+			<!-- g = g + 2 : 38 -->
+			<!-- b = b - 5 : 130 -->
+			<!-- repeat -->
+		<!-- loop #14 -->
+			<!-- fill 130, 38, 130 -->
+			<!-- pen 130, 38, 130 -->
+			<circle cx="32" cy="310" r="175" stroke="rgb(130,38,130)"  stroke-width="1" fill="rgb(130,38,130)"/>
+			<!-- radius = radius - 2 : 30 -->
+			<!-- r = r - 5 : 125 -->
+			<!-- g = g + 2 : 40 -->
+			<!-- b = b - 5 : 125 -->
+			<!-- repeat -->
+		<!-- loop #15 -->
+			<!-- fill 125, 40, 125 -->
+			<!-- pen 125, 40, 125 -->
+			<circle cx="30" cy="310" r="175" stroke="rgb(125,40,125)"  stroke-width="1" fill="rgb(125,40,125)"/>
+			<!-- radius = radius - 2 : 28 -->
+			<!-- r = r - 5 : 120 -->
+			<!-- g = g + 2 : 42 -->
+			<!-- b = b - 5 : 120 -->
+			<!-- repeat -->
+		<!-- loop #16 -->
+			<!-- fill 120, 42, 120 -->
+			<!-- pen 120, 42, 120 -->
+			<circle cx="28" cy="310" r="175" stroke="rgb(120,42,120)"  stroke-width="1" fill="rgb(120,42,120)"/>
+			<!-- radius = radius - 2 : 26 -->
+			<!-- r = r - 5 : 115 -->
+			<!-- g = g + 2 : 44 -->
+			<!-- b = b - 5 : 115 -->
+			<!-- repeat -->
+		<!-- loop #17 -->
+			<!-- fill 115, 44, 115 -->
+			<!-- pen 115, 44, 115 -->
+			<circle cx="26" cy="310" r="175" stroke="rgb(115,44,115)"  stroke-width="1" fill="rgb(115,44,115)"/>
+			<!-- radius = radius - 2 : 24 -->
+			<!-- r = r - 5 : 110 -->
+			<!-- g = g + 2 : 46 -->
+			<!-- b = b - 5 : 110 -->
+			<!-- repeat -->
+		<!-- loop #18 -->
+			<!-- fill 110, 46, 110 -->
+			<!-- pen 110, 46, 110 -->
+			<circle cx="24" cy="310" r="175" stroke="rgb(110,46,110)"  stroke-width="1" fill="rgb(110,46,110)"/>
+			<!-- radius = radius - 2 : 22 -->
+			<!-- r = r - 5 : 105 -->
+			<!-- g = g + 2 : 48 -->
+			<!-- b = b - 5 : 105 -->
+			<!-- repeat -->
+		<!-- loop #19 -->
+			<!-- fill 105, 48, 105 -->
+			<!-- pen 105, 48, 105 -->
+			<circle cx="22" cy="310" r="175" stroke="rgb(105,48,105)"  stroke-width="1" fill="rgb(105,48,105)"/>
+			<!-- radius = radius - 2 : 20 -->
+			<!-- r = r - 5 : 100 -->
+			<!-- g = g + 2 : 50 -->
+			<!-- b = b - 5 : 100 -->
+			<!-- repeat -->
+		<!-- loop #20 -->
+			<!-- fill 100, 50, 100 -->
+			<!-- pen 100, 50, 100 -->
+			<circle cx="20" cy="310" r="175" stroke="rgb(100,50,100)"  stroke-width="1" fill="rgb(100,50,100)"/>
+			<!-- radius = radius - 2 : 18 -->
+			<!-- r = r - 5 : 95 -->
+			<!-- g = g + 2 : 52 -->
+			<!-- b = b - 5 : 95 -->
+			<!-- repeat -->
+		<!-- loop #21 -->
+			<!-- fill 95, 52, 95 -->
+			<!-- pen 95, 52, 95 -->
+			<circle cx="18" cy="310" r="175" stroke="rgb(95,52,95)"  stroke-width="1" fill="rgb(95,52,95)"/>
+			<!-- radius = radius - 2 : 16 -->
+			<!-- r = r - 5 : 90 -->
+			<!-- g = g + 2 : 54 -->
+			<!-- b = b - 5 : 90 -->
+			<!-- repeat -->
+		<!-- loop #22 -->
+			<!-- fill 90, 54, 90 -->
+			<!-- pen 90, 54, 90 -->
+			<circle cx="16" cy="310" r="175" stroke="rgb(90,54,90)"  stroke-width="1" fill="rgb(90,54,90)"/>
+			<!-- radius = radius - 2 : 14 -->
+			<!-- r = r - 5 : 85 -->
+			<!-- g = g + 2 : 56 -->
+			<!-- b = b - 5 : 85 -->
+			<!-- repeat -->
+		<!-- loop #23 -->
+			<!-- fill 85, 56, 85 -->
+			<!-- pen 85, 56, 85 -->
+			<circle cx="14" cy="310" r="175" stroke="rgb(85,56,85)"  stroke-width="1" fill="rgb(85,56,85)"/>
+			<!-- radius = radius - 2 : 12 -->
+			<!-- r = r - 5 : 80 -->
+			<!-- g = g + 2 : 58 -->
+			<!-- b = b - 5 : 80 -->
+			<!-- repeat -->
+		<!-- loop #24 -->
+			<!-- fill 80, 58, 80 -->
+			<!-- pen 80, 58, 80 -->
+			<circle cx="12" cy="310" r="175" stroke="rgb(80,58,80)"  stroke-width="1" fill="rgb(80,58,80)"/>
+			<!-- radius = radius - 2 : 10 -->
+			<!-- r = r - 5 : 75 -->
+			<!-- g = g + 2 : 60 -->
+			<!-- b = b - 5 : 75 -->
+			<!-- repeat -->
+		<!-- loop #25 -->
+			<!-- fill 75, 60, 75 -->
+			<!-- pen 75, 60, 75 -->
+			<circle cx="10" cy="310" r="175" stroke="rgb(75,60,75)"  stroke-width="1" fill="rgb(75,60,75)"/>
+			<!-- radius = radius - 2 : 8 -->
+			<!-- r = r - 5 : 70 -->
+			<!-- g = g + 2 : 62 -->
+			<!-- b = b - 5 : 70 -->
+			<!-- repeat -->
+		<!-- loop #26 -->
+			<!-- fill 70, 62, 70 -->
+			<!-- pen 70, 62, 70 -->
+			<circle cx="8" cy="310" r="175" stroke="rgb(70,62,70)"  stroke-width="1" fill="rgb(70,62,70)"/>
+			<!-- radius = radius - 2 : 6 -->
+			<!-- r = r - 5 : 65 -->
+			<!-- g = g + 2 : 64 -->
+			<!-- b = b - 5 : 65 -->
+			<!-- repeat -->
+		<!-- loop #27 -->
+			<!-- fill 65, 64, 65 -->
+			<!-- pen 65, 64, 65 -->
+			<circle cx="6" cy="310" r="175" stroke="rgb(65,64,65)"  stroke-width="1" fill="rgb(65,64,65)"/>
+			<!-- radius = radius - 2 : 4 -->
+			<!-- r = r - 5 : 60 -->
+			<!-- g = g + 2 : 66 -->
+			<!-- b = b - 5 : 60 -->
+			<!-- repeat -->
+		<!-- loop #28 -->
+			<!-- fill 60, 66, 60 -->
+			<!-- pen 60, 66, 60 -->
+			<circle cx="4" cy="310" r="175" stroke="rgb(60,66,60)"  stroke-width="1" fill="rgb(60,66,60)"/>
+			<!-- radius = radius - 2 : 2 -->
+			<!-- r = r - 5 : 55 -->
+			<!-- g = g + 2 : 68 -->
+			<!-- b = b - 5 : 55 -->
+			<!-- repeat -->
+		<!-- loop #29 -->
+			<!-- fill 55, 68, 55 -->
+			<!-- pen 55, 68, 55 -->
+			<circle cx="2" cy="310" r="175" stroke="rgb(55,68,55)"  stroke-width="1" fill="rgb(55,68,55)"/>
+			<!-- radius = radius - 2 : 0 -->
+			<!-- r = r - 5 : 50 -->
+			<!-- g = g + 2 : 70 -->
+			<!-- b = b - 5 : 50 -->
+			<!-- repeat -->
+		<!-- x1 = x1 + 200 : 425 -->
+		<!-- x2 = x2 + 200 : 600 -->
+		<!-- repeat -->
+	<!-- loop #2 -->
+		<!-- fill 10, 200, 100 -->
+		<!-- pen 10, 200, 100 -->
+		<polygon points="425,100 600,100 600,250 425,250" stroke="rgb(10,200,100)"  stroke-width="1"  fill="rgb(10,200,100)"/>
+		<!-- radius = 60 -->
+		<!-- y = 100 -->
+		<!-- y = y + 75 : 175 -->
+		<!-- x = 425 -->
+		<!-- x = x + 85 : 510 -->
+		<!-- r = 200 -->
+		<!-- g = 10 -->
+		<!-- b = 200 -->
+		<!-- loop j: 30 -->
+		<!-- loop #0 -->
+			<!-- fill 200, 10, 200 -->
+			<!-- pen 200, 10, 200 -->
+			<circle cx="60" cy="510" r="175" stroke="rgb(200,10,200)"  stroke-width="1" fill="rgb(200,10,200)"/>
+			<!-- radius = radius - 2 : 58 -->
+			<!-- r = r - 5 : 195 -->
+			<!-- g = g + 2 : 12 -->
+			<!-- b = b - 5 : 195 -->
+			<!-- repeat -->
+		<!-- loop #1 -->
+			<!-- fill 195, 12, 195 -->
+			<!-- pen 195, 12, 195 -->
+			<circle cx="58" cy="510" r="175" stroke="rgb(195,12,195)"  stroke-width="1" fill="rgb(195,12,195)"/>
+			<!-- radius = radius - 2 : 56 -->
+			<!-- r = r - 5 : 190 -->
+			<!-- g = g + 2 : 14 -->
+			<!-- b = b - 5 : 190 -->
+			<!-- repeat -->
+		<!-- loop #2 -->
+			<!-- fill 190, 14, 190 -->
+			<!-- pen 190, 14, 190 -->
+			<circle cx="56" cy="510" r="175" stroke="rgb(190,14,190)"  stroke-width="1" fill="rgb(190,14,190)"/>
+			<!-- radius = radius - 2 : 54 -->
+			<!-- r = r - 5 : 185 -->
+			<!-- g = g + 2 : 16 -->
+			<!-- b = b - 5 : 185 -->
+			<!-- repeat -->
+		<!-- loop #3 -->
+			<!-- fill 185, 16, 185 -->
+			<!-- pen 185, 16, 185 -->
+			<circle cx="54" cy="510" r="175" stroke="rgb(185,16,185)"  stroke-width="1" fill="rgb(185,16,185)"/>
+			<!-- radius = radius - 2 : 52 -->
+			<!-- r = r - 5 : 180 -->
+			<!-- g = g + 2 : 18 -->
+			<!-- b = b - 5 : 180 -->
+			<!-- repeat -->
+		<!-- loop #4 -->
+			<!-- fill 180, 18, 180 -->
+			<!-- pen 180, 18, 180 -->
+			<circle cx="52" cy="510" r="175" stroke="rgb(180,18,180)"  stroke-width="1" fill="rgb(180,18,180)"/>
+			<!-- radius = radius - 2 : 50 -->
+			<!-- r = r - 5 : 175 -->
+			<!-- g = g + 2 : 20 -->
+			<!-- b = b - 5 : 175 -->
+			<!-- repeat -->
+		<!-- loop #5 -->
+			<!-- fill 175, 20, 175 -->
+			<!-- pen 175, 20, 175 -->
+			<circle cx="50" cy="510" r="175" stroke="rgb(175,20,175)"  stroke-width="1" fill="rgb(175,20,175)"/>
+			<!-- radius = radius - 2 : 48 -->
+			<!-- r = r - 5 : 170 -->
+			<!-- g = g + 2 : 22 -->
+			<!-- b = b - 5 : 170 -->
+			<!-- repeat -->
+		<!-- loop #6 -->
+			<!-- fill 170, 22, 170 -->
+			<!-- pen 170, 22, 170 -->
+			<circle cx="48" cy="510" r="175" stroke="rgb(170,22,170)"  stroke-width="1" fill="rgb(170,22,170)"/>
+			<!-- radius = radius - 2 : 46 -->
+			<!-- r = r - 5 : 165 -->
+			<!-- g = g + 2 : 24 -->
+			<!-- b = b - 5 : 165 -->
+			<!-- repeat -->
+		<!-- loop #7 -->
+			<!-- fill 165, 24, 165 -->
+			<!-- pen 165, 24, 165 -->
+			<circle cx="46" cy="510" r="175" stroke="rgb(165,24,165)"  stroke-width="1" fill="rgb(165,24,165)"/>
+			<!-- radius = radius - 2 : 44 -->
+			<!-- r = r - 5 : 160 -->
+			<!-- g = g + 2 : 26 -->
+			<!-- b = b - 5 : 160 -->
+			<!-- repeat -->
+		<!-- loop #8 -->
+			<!-- fill 160, 26, 160 -->
+			<!-- pen 160, 26, 160 -->
+			<circle cx="44" cy="510" r="175" stroke="rgb(160,26,160)"  stroke-width="1" fill="rgb(160,26,160)"/>
+			<!-- radius = radius - 2 : 42 -->
+			<!-- r = r - 5 : 155 -->
+			<!-- g = g + 2 : 28 -->
+			<!-- b = b - 5 : 155 -->
+			<!-- repeat -->
+		<!-- loop #9 -->
+			<!-- fill 155, 28, 155 -->
+			<!-- pen 155, 28, 155 -->
+			<circle cx="42" cy="510" r="175" stroke="rgb(155,28,155)"  stroke-width="1" fill="rgb(155,28,155)"/>
+			<!-- radius = radius - 2 : 40 -->
+			<!-- r = r - 5 : 150 -->
+			<!-- g = g + 2 : 30 -->
+			<!-- b = b - 5 : 150 -->
+			<!-- repeat -->
+		<!-- loop #10 -->
+			<!-- fill 150, 30, 150 -->
+			<!-- pen 150, 30, 150 -->
+			<circle cx="40" cy="510" r="175" stroke="rgb(150,30,150)"  stroke-width="1" fill="rgb(150,30,150)"/>
+			<!-- radius = radius - 2 : 38 -->
+			<!-- r = r - 5 : 145 -->
+			<!-- g = g + 2 : 32 -->
+			<!-- b = b - 5 : 145 -->
+			<!-- repeat -->
+		<!-- loop #11 -->
+			<!-- fill 145, 32, 145 -->
+			<!-- pen 145, 32, 145 -->
+			<circle cx="38" cy="510" r="175" stroke="rgb(145,32,145)"  stroke-width="1" fill="rgb(145,32,145)"/>
+			<!-- radius = radius - 2 : 36 -->
+			<!-- r = r - 5 : 140 -->
+			<!-- g = g + 2 : 34 -->
+			<!-- b = b - 5 : 140 -->
+			<!-- repeat -->
+		<!-- loop #12 -->
+			<!-- fill 140, 34, 140 -->
+			<!-- pen 140, 34, 140 -->
+			<circle cx="36" cy="510" r="175" stroke="rgb(140,34,140)"  stroke-width="1" fill="rgb(140,34,140)"/>
+			<!-- radius = radius - 2 : 34 -->
+			<!-- r = r - 5 : 135 -->
+			<!-- g = g + 2 : 36 -->
+			<!-- b = b - 5 : 135 -->
+			<!-- repeat -->
+		<!-- loop #13 -->
+			<!-- fill 135, 36, 135 -->
+			<!-- pen 135, 36, 135 -->
+			<circle cx="34" cy="510" r="175" stroke="rgb(135,36,135)"  stroke-width="1" fill="rgb(135,36,135)"/>
+			<!-- radius = radius - 2 : 32 -->
+			<!-- r = r - 5 : 130 -->
+			<!-- g = g + 2 : 38 -->
+			<!-- b = b - 5 : 130 -->
+			<!-- repeat -->
+		<!-- loop #14 -->
+			<!-- fill 130, 38, 130 -->
+			<!-- pen 130, 38, 130 -->
+			<circle cx="32" cy="510" r="175" stroke="rgb(130,38,130)"  stroke-width="1" fill="rgb(130,38,130)"/>
+			<!-- radius = radius - 2 : 30 -->
+			<!-- r = r - 5 : 125 -->
+			<!-- g = g + 2 : 40 -->
+			<!-- b = b - 5 : 125 -->
+			<!-- repeat -->
+		<!-- loop #15 -->
+			<!-- fill 125, 40, 125 -->
+			<!-- pen 125, 40, 125 -->
+			<circle cx="30" cy="510" r="175" stroke="rgb(125,40,125)"  stroke-width="1" fill="rgb(125,40,125)"/>
+			<!-- radius = radius - 2 : 28 -->
+			<!-- r = r - 5 : 120 -->
+			<!-- g = g + 2 : 42 -->
+			<!-- b = b - 5 : 120 -->
+			<!-- repeat -->
+		<!-- loop #16 -->
+			<!-- fill 120, 42, 120 -->
+			<!-- pen 120, 42, 120 -->
+			<circle cx="28" cy="510" r="175" stroke="rgb(120,42,120)"  stroke-width="1" fill="rgb(120,42,120)"/>
+			<!-- radius = radius - 2 : 26 -->
+			<!-- r = r - 5 : 115 -->
+			<!-- g = g + 2 : 44 -->
+			<!-- b = b - 5 : 115 -->
+			<!-- repeat -->
+		<!-- loop #17 -->
+			<!-- fill 115, 44, 115 -->
+			<!-- pen 115, 44, 115 -->
+			<circle cx="26" cy="510" r="175" stroke="rgb(115,44,115)"  stroke-width="1" fill="rgb(115,44,115)"/>
+			<!-- radius = radius - 2 : 24 -->
+			<!-- r = r - 5 : 110 -->
+			<!-- g = g + 2 : 46 -->
+			<!-- b = b - 5 : 110 -->
+			<!-- repeat -->
+		<!-- loop #18 -->
+			<!-- fill 110, 46, 110 -->
+			<!-- pen 110, 46, 110 -->
+			<circle cx="24" cy="510" r="175" stroke="rgb(110,46,110)"  stroke-width="1" fill="rgb(110,46,110)"/>
+			<!-- radius = radius - 2 : 22 -->
+			<!-- r = r - 5 : 105 -->
+			<!-- g = g + 2 : 48 -->
+			<!-- b = b - 5 : 105 -->
+			<!-- repeat -->
+		<!-- loop #19 -->
+			<!-- fill 105, 48, 105 -->
+			<!-- pen 105, 48, 105 -->
+			<circle cx="22" cy="510" r="175" stroke="rgb(105,48,105)"  stroke-width="1" fill="rgb(105,48,105)"/>
+			<!-- radius = radius - 2 : 20 -->
+			<!-- r = r - 5 : 100 -->
+			<!-- g = g + 2 : 50 -->
+			<!-- b = b - 5 : 100 -->
+			<!-- repeat -->
+		<!-- loop #20 -->
+			<!-- fill 100, 50, 100 -->
+			<!-- pen 100, 50, 100 -->
+			<circle cx="20" cy="510" r="175" stroke="rgb(100,50,100)"  stroke-width="1" fill="rgb(100,50,100)"/>
+			<!-- radius = radius - 2 : 18 -->
+			<!-- r = r - 5 : 95 -->
+			<!-- g = g + 2 : 52 -->
+			<!-- b = b - 5 : 95 -->
+			<!-- repeat -->
+		<!-- loop #21 -->
+			<!-- fill 95, 52, 95 -->
+			<!-- pen 95, 52, 95 -->
+			<circle cx="18" cy="510" r="175" stroke="rgb(95,52,95)"  stroke-width="1" fill="rgb(95,52,95)"/>
+			<!-- radius = radius - 2 : 16 -->
+			<!-- r = r - 5 : 90 -->
+			<!-- g = g + 2 : 54 -->
+			<!-- b = b - 5 : 90 -->
+			<!-- repeat -->
+		<!-- loop #22 -->
+			<!-- fill 90, 54, 90 -->
+			<!-- pen 90, 54, 90 -->
+			<circle cx="16" cy="510" r="175" stroke="rgb(90,54,90)"  stroke-width="1" fill="rgb(90,54,90)"/>
+			<!-- radius = radius - 2 : 14 -->
+			<!-- r = r - 5 : 85 -->
+			<!-- g = g + 2 : 56 -->
+			<!-- b = b - 5 : 85 -->
+			<!-- repeat -->
+		<!-- loop #23 -->
+			<!-- fill 85, 56, 85 -->
+			<!-- pen 85, 56, 85 -->
+			<circle cx="14" cy="510" r="175" stroke="rgb(85,56,85)"  stroke-width="1" fill="rgb(85,56,85)"/>
+			<!-- radius = radius - 2 : 12 -->
+			<!-- r = r - 5 : 80 -->
+			<!-- g = g + 2 : 58 -->
+			<!-- b = b - 5 : 80 -->
+			<!-- repeat -->
+		<!-- loop #24 -->
+			<!-- fill 80, 58, 80 -->
+			<!-- pen 80, 58, 80 -->
+			<circle cx="12" cy="510" r="175" stroke="rgb(80,58,80)"  stroke-width="1" fill="rgb(80,58,80)"/>
+			<!-- radius = radius - 2 : 10 -->
+			<!-- r = r - 5 : 75 -->
+			<!-- g = g + 2 : 60 -->
+			<!-- b = b - 5 : 75 -->
+			<!-- repeat -->
+		<!-- loop #25 -->
+			<!-- fill 75, 60, 75 -->
+			<!-- pen 75, 60, 75 -->
+			<circle cx="10" cy="510" r="175" stroke="rgb(75,60,75)"  stroke-width="1" fill="rgb(75,60,75)"/>
+			<!-- radius = radius - 2 : 8 -->
+			<!-- r = r - 5 : 70 -->
+			<!-- g = g + 2 : 62 -->
+			<!-- b = b - 5 : 70 -->
+			<!-- repeat -->
+		<!-- loop #26 -->
+			<!-- fill 70, 62, 70 -->
+			<!-- pen 70, 62, 70 -->
+			<circle cx="8" cy="510" r="175" stroke="rgb(70,62,70)"  stroke-width="1" fill="rgb(70,62,70)"/>
+			<!-- radius = radius - 2 : 6 -->
+			<!-- r = r - 5 : 65 -->
+			<!-- g = g + 2 : 64 -->
+			<!-- b = b - 5 : 65 -->
+			<!-- repeat -->
+		<!-- loop #27 -->
+			<!-- fill 65, 64, 65 -->
+			<!-- pen 65, 64, 65 -->
+			<circle cx="6" cy="510" r="175" stroke="rgb(65,64,65)"  stroke-width="1" fill="rgb(65,64,65)"/>
+			<!-- radius = radius - 2 : 4 -->
+			<!-- r = r - 5 : 60 -->
+			<!-- g = g + 2 : 66 -->
+			<!-- b = b - 5 : 60 -->
+			<!-- repeat -->
+		<!-- loop #28 -->
+			<!-- fill 60, 66, 60 -->
+			<!-- pen 60, 66, 60 -->
+			<circle cx="4" cy="510" r="175" stroke="rgb(60,66,60)"  stroke-width="1" fill="rgb(60,66,60)"/>
+			<!-- radius = radius - 2 : 2 -->
+			<!-- r = r - 5 : 55 -->
+			<!-- g = g + 2 : 68 -->
+			<!-- b = b - 5 : 55 -->
+			<!-- repeat -->
+		<!-- loop #29 -->
+			<!-- fill 55, 68, 55 -->
+			<!-- pen 55, 68, 55 -->
+			<circle cx="2" cy="510" r="175" stroke="rgb(55,68,55)"  stroke-width="1" fill="rgb(55,68,55)"/>
+			<!-- radius = radius - 2 : 0 -->
+			<!-- r = r - 5 : 50 -->
+			<!-- g = g + 2 : 70 -->
+			<!-- b = b - 5 : 50 -->
+			<!-- repeat -->
+		<!-- x1 = x1 + 200 : 625 -->
+		<!-- x2 = x2 + 200 : 800 -->
+		<!-- repeat -->
+	<!-- loop #3 -->
+		<!-- fill 10, 200, 100 -->
+		<!-- pen 10, 200, 100 -->
+		<polygon points="625,100 800,100 800,250 625,250" stroke="rgb(10,200,100)"  stroke-width="1"  fill="rgb(10,200,100)"/>
+		<!-- radius = 60 -->
+		<!-- y = 100 -->
+		<!-- y = y + 75 : 175 -->
+		<!-- x = 625 -->
+		<!-- x = x + 85 : 710 -->
+		<!-- r = 200 -->
+		<!-- g = 10 -->
+		<!-- b = 200 -->
+		<!-- loop j: 30 -->
+		<!-- loop #0 -->
+			<!-- fill 200, 10, 200 -->
+			<!-- pen 200, 10, 200 -->
+			<circle cx="60" cy="710" r="175" stroke="rgb(200,10,200)"  stroke-width="1" fill="rgb(200,10,200)"/>
+			<!-- radius = radius - 2 : 58 -->
+			<!-- r = r - 5 : 195 -->
+			<!-- g = g + 2 : 12 -->
+			<!-- b = b - 5 : 195 -->
+			<!-- repeat -->
+		<!-- loop #1 -->
+			<!-- fill 195, 12, 195 -->
+			<!-- pen 195, 12, 195 -->
+			<circle cx="58" cy="710" r="175" stroke="rgb(195,12,195)"  stroke-width="1" fill="rgb(195,12,195)"/>
+			<!-- radius = radius - 2 : 56 -->
+			<!-- r = r - 5 : 190 -->
+			<!-- g = g + 2 : 14 -->
+			<!-- b = b - 5 : 190 -->
+			<!-- repeat -->
+		<!-- loop #2 -->
+			<!-- fill 190, 14, 190 -->
+			<!-- pen 190, 14, 190 -->
+			<circle cx="56" cy="710" r="175" stroke="rgb(190,14,190)"  stroke-width="1" fill="rgb(190,14,190)"/>
+			<!-- radius = radius - 2 : 54 -->
+			<!-- r = r - 5 : 185 -->
+			<!-- g = g + 2 : 16 -->
+			<!-- b = b - 5 : 185 -->
+			<!-- repeat -->
+		<!-- loop #3 -->
+			<!-- fill 185, 16, 185 -->
+			<!-- pen 185, 16, 185 -->
+			<circle cx="54" cy="710" r="175" stroke="rgb(185,16,185)"  stroke-width="1" fill="rgb(185,16,185)"/>
+			<!-- radius = radius - 2 : 52 -->
+			<!-- r = r - 5 : 180 -->
+			<!-- g = g + 2 : 18 -->
+			<!-- b = b - 5 : 180 -->
+			<!-- repeat -->
+		<!-- loop #4 -->
+			<!-- fill 180, 18, 180 -->
+			<!-- pen 180, 18, 180 -->
+			<circle cx="52" cy="710" r="175" stroke="rgb(180,18,180)"  stroke-width="1" fill="rgb(180,18,180)"/>
+			<!-- radius = radius - 2 : 50 -->
+			<!-- r = r - 5 : 175 -->
+			<!-- g = g + 2 : 20 -->
+			<!-- b = b - 5 : 175 -->
+			<!-- repeat -->
+		<!-- loop #5 -->
+			<!-- fill 175, 20, 175 -->
+			<!-- pen 175, 20, 175 -->
+			<circle cx="50" cy="710" r="175" stroke="rgb(175,20,175)"  stroke-width="1" fill="rgb(175,20,175)"/>
+			<!-- radius = radius - 2 : 48 -->
+			<!-- r = r - 5 : 170 -->
+			<!-- g = g + 2 : 22 -->
+			<!-- b = b - 5 : 170 -->
+			<!-- repeat -->
+		<!-- loop #6 -->
+			<!-- fill 170, 22, 170 -->
+			<!-- pen 170, 22, 170 -->
+			<circle cx="48" cy="710" r="175" stroke="rgb(170,22,170)"  stroke-width="1" fill="rgb(170,22,170)"/>
+			<!-- radius = radius - 2 : 46 -->
+			<!-- r = r - 5 : 165 -->
+			<!-- g = g + 2 : 24 -->
+			<!-- b = b - 5 : 165 -->
+			<!-- repeat -->
+		<!-- loop #7 -->
+			<!-- fill 165, 24, 165 -->
+			<!-- pen 165, 24, 165 -->
+			<circle cx="46" cy="710" r="175" stroke="rgb(165,24,165)"  stroke-width="1" fill="rgb(165,24,165)"/>
+			<!-- radius = radius - 2 : 44 -->
+			<!-- r = r - 5 : 160 -->
+			<!-- g = g + 2 : 26 -->
+			<!-- b = b - 5 : 160 -->
+			<!-- repeat -->
+		<!-- loop #8 -->
+			<!-- fill 160, 26, 160 -->
+			<!-- pen 160, 26, 160 -->
+			<circle cx="44" cy="710" r="175" stroke="rgb(160,26,160)"  stroke-width="1" fill="rgb(160,26,160)"/>
+			<!-- radius = radius - 2 : 42 -->
+			<!-- r = r - 5 : 155 -->
+			<!-- g = g + 2 : 28 -->
+			<!-- b = b - 5 : 155 -->
+			<!-- repeat -->
+		<!-- loop #9 -->
+			<!-- fill 155, 28, 155 -->
+			<!-- pen 155, 28, 155 -->
+			<circle cx="42" cy="710" r="175" stroke="rgb(155,28,155)"  stroke-width="1" fill="rgb(155,28,155)"/>
+			<!-- radius = radius - 2 : 40 -->
+			<!-- r = r - 5 : 150 -->
+			<!-- g = g + 2 : 30 -->
+			<!-- b = b - 5 : 150 -->
+			<!-- repeat -->
+		<!-- loop #10 -->
+			<!-- fill 150, 30, 150 -->
+			<!-- pen 150, 30, 150 -->
+			<circle cx="40" cy="710" r="175" stroke="rgb(150,30,150)"  stroke-width="1" fill="rgb(150,30,150)"/>
+			<!-- radius = radius - 2 : 38 -->
+			<!-- r = r - 5 : 145 -->
+			<!-- g = g + 2 : 32 -->
+			<!-- b = b - 5 : 145 -->
+			<!-- repeat -->
+		<!-- loop #11 -->
+			<!-- fill 145, 32, 145 -->
+			<!-- pen 145, 32, 145 -->
+			<circle cx="38" cy="710" r="175" stroke="rgb(145,32,145)"  stroke-width="1" fill="rgb(145,32,145)"/>
+			<!-- radius = radius - 2 : 36 -->
+			<!-- r = r - 5 : 140 -->
+			<!-- g = g + 2 : 34 -->
+			<!-- b = b - 5 : 140 -->
+			<!-- repeat -->
+		<!-- loop #12 -->
+			<!-- fill 140, 34, 140 -->
+			<!-- pen 140, 34, 140 -->
+			<circle cx="36" cy="710" r="175" stroke="rgb(140,34,140)"  stroke-width="1" fill="rgb(140,34,140)"/>
+			<!-- radius = radius - 2 : 34 -->
+			<!-- r = r - 5 : 135 -->
+			<!-- g = g + 2 : 36 -->
+			<!-- b = b - 5 : 135 -->
+			<!-- repeat -->
+		<!-- loop #13 -->
+			<!-- fill 135, 36, 135 -->
+			<!-- pen 135, 36, 135 -->
+			<circle cx="34" cy="710" r="175" stroke="rgb(135,36,135)"  stroke-width="1" fill="rgb(135,36,135)"/>
+			<!-- radius = radius - 2 : 32 -->
+			<!-- r = r - 5 : 130 -->
+			<!-- g = g + 2 : 38 -->
+			<!-- b = b - 5 : 130 -->
+			<!-- repeat -->
+		<!-- loop #14 -->
+			<!-- fill 130, 38, 130 -->
+			<!-- pen 130, 38, 130 -->
+			<circle cx="32" cy="710" r="175" stroke="rgb(130,38,130)"  stroke-width="1" fill="rgb(130,38,130)"/>
+			<!-- radius = radius - 2 : 30 -->
+			<!-- r = r - 5 : 125 -->
+			<!-- g = g + 2 : 40 -->
+			<!-- b = b - 5 : 125 -->
+			<!-- repeat -->
+		<!-- loop #15 -->
+			<!-- fill 125, 40, 125 -->
+			<!-- pen 125, 40, 125 -->
+			<circle cx="30" cy="710" r="175" stroke="rgb(125,40,125)"  stroke-width="1" fill="rgb(125,40,125)"/>
+			<!-- radius = radius - 2 : 28 -->
+			<!-- r = r - 5 : 120 -->
+			<!-- g = g + 2 : 42 -->
+			<!-- b = b - 5 : 120 -->
+			<!-- repeat -->
+		<!-- loop #16 -->
+			<!-- fill 120, 42, 120 -->
+			<!-- pen 120, 42, 120 -->
+			<circle cx="28" cy="710" r="175" stroke="rgb(120,42,120)"  stroke-width="1" fill="rgb(120,42,120)"/>
+			<!-- radius = radius - 2 : 26 -->
+			<!-- r = r - 5 : 115 -->
+			<!-- g = g + 2 : 44 -->
+			<!-- b = b - 5 : 115 -->
+			<!-- repeat -->
+		<!-- loop #17 -->
+			<!-- fill 115, 44, 115 -->
+			<!-- pen 115, 44, 115 -->
+			<circle cx="26" cy="710" r="175" stroke="rgb(115,44,115)"  stroke-width="1" fill="rgb(115,44,115)"/>
+			<!-- radius = radius - 2 : 24 -->
+			<!-- r = r - 5 : 110 -->
+			<!-- g = g + 2 : 46 -->
+			<!-- b = b - 5 : 110 -->
+			<!-- repeat -->
+		<!-- loop #18 -->
+			<!-- fill 110, 46, 110 -->
+			<!-- pen 110, 46, 110 -->
+			<circle cx="24" cy="710" r="175" stroke="rgb(110,46,110)"  stroke-width="1" fill="rgb(110,46,110)"/>
+			<!-- radius = radius - 2 : 22 -->
+			<!-- r = r - 5 : 105 -->
+			<!-- g = g + 2 : 48 -->
+			<!-- b = b - 5 : 105 -->
+			<!-- repeat -->
+		<!-- loop #19 -->
+			<!-- fill 105, 48, 105 -->
+			<!-- pen 105, 48, 105 -->
+			<circle cx="22" cy="710" r="175" stroke="rgb(105,48,105)"  stroke-width="1" fill="rgb(105,48,105)"/>
+			<!-- radius = radius - 2 : 20 -->
+			<!-- r = r - 5 : 100 -->
+			<!-- g = g + 2 : 50 -->
+			<!-- b = b - 5 : 100 -->
+			<!-- repeat -->
+		<!-- loop #20 -->
+			<!-- fill 100, 50, 100 -->
+			<!-- pen 100, 50, 100 -->
+			<circle cx="20" cy="710" r="175" stroke="rgb(100,50,100)"  stroke-width="1" fill="rgb(100,50,100)"/>
+			<!-- radius = radius - 2 : 18 -->
+			<!-- r = r - 5 : 95 -->
+			<!-- g = g + 2 : 52 -->
+			<!-- b = b - 5 : 95 -->
+			<!-- repeat -->
+		<!-- loop #21 -->
+			<!-- fill 95, 52, 95 -->
+			<!-- pen 95, 52, 95 -->
+			<circle cx="18" cy="710" r="175" stroke="rgb(95,52,95)"  stroke-width="1" fill="rgb(95,52,95)"/>
+			<!-- radius = radius - 2 : 16 -->
+			<!-- r = r - 5 : 90 -->
+			<!-- g = g + 2 : 54 -->
+			<!-- b = b - 5 : 90 -->
+			<!-- repeat -->
+		<!-- loop #22 -->
+			<!-- fill 90, 54, 90 -->
+			<!-- pen 90, 54, 90 -->
+			<circle cx="16" cy="710" r="175" stroke="rgb(90,54,90)"  stroke-width="1" fill="rgb(90,54,90)"/>
+			<!-- radius = radius - 2 : 14 -->
+			<!-- r = r - 5 : 85 -->
+			<!-- g = g + 2 : 56 -->
+			<!-- b = b - 5 : 85 -->
+			<!-- repeat -->
+		<!-- loop #23 -->
+			<!-- fill 85, 56, 85 -->
+			<!-- pen 85, 56, 85 -->
+			<circle cx="14" cy="710" r="175" stroke="rgb(85,56,85)"  stroke-width="1" fill="rgb(85,56,85)"/>
+			<!-- radius = radius - 2 : 12 -->
+			<!-- r = r - 5 : 80 -->
+			<!-- g = g + 2 : 58 -->
+			<!-- b = b - 5 : 80 -->
+			<!-- repeat -->
+		<!-- loop #24 -->
+			<!-- fill 80, 58, 80 -->
+			<!-- pen 80, 58, 80 -->
+			<circle cx="12" cy="710" r="175" stroke="rgb(80,58,80)"  stroke-width="1" fill="rgb(80,58,80)"/>
+			<!-- radius = radius - 2 : 10 -->
+			<!-- r = r - 5 : 75 -->
+			<!-- g = g + 2 : 60 -->
+			<!-- b = b - 5 : 75 -->
+			<!-- repeat -->
+		<!-- loop #25 -->
+			<!-- fill 75, 60, 75 -->
+			<!-- pen 75, 60, 75 -->
+			<circle cx="10" cy="710" r="175" stroke="rgb(75,60,75)"  stroke-width="1" fill="rgb(75,60,75)"/>
+			<!-- radius = radius - 2 : 8 -->
+			<!-- r = r - 5 : 70 -->
+			<!-- g = g + 2 : 62 -->
+			<!-- b = b - 5 : 70 -->
+			<!-- repeat -->
+		<!-- loop #26 -->
+			<!-- fill 70, 62, 70 -->
+			<!-- pen 70, 62, 70 -->
+			<circle cx="8" cy="710" r="175" stroke="rgb(70,62,70)"  stroke-width="1" fill="rgb(70,62,70)"/>
+			<!-- radius = radius - 2 : 6 -->
+			<!-- r = r - 5 : 65 -->
+			<!-- g = g + 2 : 64 -->
+			<!-- b = b - 5 : 65 -->
+			<!-- repeat -->
+		<!-- loop #27 -->
+			<!-- fill 65, 64, 65 -->
+			<!-- pen 65, 64, 65 -->
+			<circle cx="6" cy="710" r="175" stroke="rgb(65,64,65)"  stroke-width="1" fill="rgb(65,64,65)"/>
+			<!-- radius = radius - 2 : 4 -->
+			<!-- r = r - 5 : 60 -->
+			<!-- g = g + 2 : 66 -->
+			<!-- b = b - 5 : 60 -->
+			<!-- repeat -->
+		<!-- loop #28 -->
+			<!-- fill 60, 66, 60 -->
+			<!-- pen 60, 66, 60 -->
+			<circle cx="4" cy="710" r="175" stroke="rgb(60,66,60)"  stroke-width="1" fill="rgb(60,66,60)"/>
+			<!-- radius = radius - 2 : 2 -->
+			<!-- r = r - 5 : 55 -->
+			<!-- g = g + 2 : 68 -->
+			<!-- b = b - 5 : 55 -->
+			<!-- repeat -->
+		<!-- loop #29 -->
+			<!-- fill 55, 68, 55 -->
+			<!-- pen 55, 68, 55 -->
+			<circle cx="2" cy="710" r="175" stroke="rgb(55,68,55)"  stroke-width="1" fill="rgb(55,68,55)"/>
+			<!-- radius = radius - 2 : 0 -->
+			<!-- r = r - 5 : 50 -->
+			<!-- g = g + 2 : 70 -->
+			<!-- b = b - 5 : 50 -->
+			<!-- repeat -->
+		<!-- x1 = x1 + 200 : 825 -->
+		<!-- x2 = x2 + 200 : 1000 -->
+		<!-- repeat -->
+	<!-- loop #4 -->
+		<!-- fill 10, 200, 100 -->
+		<!-- pen 10, 200, 100 -->
+		<polygon points="825,100 1000,100 1000,250 825,250" stroke="rgb(10,200,100)"  stroke-width="1"  fill="rgb(10,200,100)"/>
+		<!-- radius = 60 -->
+		<!-- y = 100 -->
+		<!-- y = y + 75 : 175 -->
+		<!-- x = 825 -->
+		<!-- x = x + 85 : 910 -->
+		<!-- r = 200 -->
+		<!-- g = 10 -->
+		<!-- b = 200 -->
+		<!-- loop j: 30 -->
+		<!-- loop #0 -->
+			<!-- fill 200, 10, 200 -->
+			<!-- pen 200, 10, 200 -->
+			<circle cx="60" cy="910" r="175" stroke="rgb(200,10,200)"  stroke-width="1" fill="rgb(200,10,200)"/>
+			<!-- radius = radius - 2 : 58 -->
+			<!-- r = r - 5 : 195 -->
+			<!-- g = g + 2 : 12 -->
+			<!-- b = b - 5 : 195 -->
+			<!-- repeat -->
+		<!-- loop #1 -->
+			<!-- fill 195, 12, 195 -->
+			<!-- pen 195, 12, 195 -->
+			<circle cx="58" cy="910" r="175" stroke="rgb(195,12,195)"  stroke-width="1" fill="rgb(195,12,195)"/>
+			<!-- radius = radius - 2 : 56 -->
+			<!-- r = r - 5 : 190 -->
+			<!-- g = g + 2 : 14 -->
+			<!-- b = b - 5 : 190 -->
+			<!-- repeat -->
+		<!-- loop #2 -->
+			<!-- fill 190, 14, 190 -->
+			<!-- pen 190, 14, 190 -->
+			<circle cx="56" cy="910" r="175" stroke="rgb(190,14,190)"  stroke-width="1" fill="rgb(190,14,190)"/>
+			<!-- radius = radius - 2 : 54 -->
+			<!-- r = r - 5 : 185 -->
+			<!-- g = g + 2 : 16 -->
+			<!-- b = b - 5 : 185 -->
+			<!-- repeat -->
+		<!-- loop #3 -->
+			<!-- fill 185, 16, 185 -->
+			<!-- pen 185, 16, 185 -->
+			<circle cx="54" cy="910" r="175" stroke="rgb(185,16,185)"  stroke-width="1" fill="rgb(185,16,185)"/>
+			<!-- radius = radius - 2 : 52 -->
+			<!-- r = r - 5 : 180 -->
+			<!-- g = g + 2 : 18 -->
+			<!-- b = b - 5 : 180 -->
+			<!-- repeat -->
+		<!-- loop #4 -->
+			<!-- fill 180, 18, 180 -->
+			<!-- pen 180, 18, 180 -->
+			<circle cx="52" cy="910" r="175" stroke="rgb(180,18,180)"  stroke-width="1" fill="rgb(180,18,180)"/>
+			<!-- radius = radius - 2 : 50 -->
+			<!-- r = r - 5 : 175 -->
+			<!-- g = g + 2 : 20 -->
+			<!-- b = b - 5 : 175 -->
+			<!-- repeat -->
+		<!-- loop #5 -->
+			<!-- fill 175, 20, 175 -->
+			<!-- pen 175, 20, 175 -->
+			<circle cx="50" cy="910" r="175" stroke="rgb(175,20,175)"  stroke-width="1" fill="rgb(175,20,175)"/>
+			<!-- radius = radius - 2 : 48 -->
+			<!-- r = r - 5 : 170 -->
+			<!-- g = g + 2 : 22 -->
+			<!-- b = b - 5 : 170 -->
+			<!-- repeat -->
+		<!-- loop #6 -->
+			<!-- fill 170, 22, 170 -->
+			<!-- pen 170, 22, 170 -->
+			<circle cx="48" cy="910" r="175" stroke="rgb(170,22,170)"  stroke-width="1" fill="rgb(170,22,170)"/>
+			<!-- radius = radius - 2 : 46 -->
+			<!-- r = r - 5 : 165 -->
+			<!-- g = g + 2 : 24 -->
+			<!-- b = b - 5 : 165 -->
+			<!-- repeat -->
+		<!-- loop #7 -->
+			<!-- fill 165, 24, 165 -->
+			<!-- pen 165, 24, 165 -->
+			<circle cx="46" cy="910" r="175" stroke="rgb(165,24,165)"  stroke-width="1" fill="rgb(165,24,165)"/>
+			<!-- radius = radius - 2 : 44 -->
+			<!-- r = r - 5 : 160 -->
+			<!-- g = g + 2 : 26 -->
+			<!-- b = b - 5 : 160 -->
+			<!-- repeat -->
+		<!-- loop #8 -->
+			<!-- fill 160, 26, 160 -->
+			<!-- pen 160, 26, 160 -->
+			<circle cx="44" cy="910" r="175" stroke="rgb(160,26,160)"  stroke-width="1" fill="rgb(160,26,160)"/>
+			<!-- radius = radius - 2 : 42 -->
+			<!-- r = r - 5 : 155 -->
+			<!-- g = g + 2 : 28 -->
+			<!-- b = b - 5 : 155 -->
+			<!-- repeat -->
+		<!-- loop #9 -->
+			<!-- fill 155, 28, 155 -->
+			<!-- pen 155, 28, 155 -->
+			<circle cx="42" cy="910" r="175" stroke="rgb(155,28,155)"  stroke-width="1" fill="rgb(155,28,155)"/>
+			<!-- radius = radius - 2 : 40 -->
+			<!-- r = r - 5 : 150 -->
+			<!-- g = g + 2 : 30 -->
+			<!-- b = b - 5 : 150 -->
+			<!-- repeat -->
+		<!-- loop #10 -->
+			<!-- fill 150, 30, 150 -->
+			<!-- pen 150, 30, 150 -->
+			<circle cx="40" cy="910" r="175" stroke="rgb(150,30,150)"  stroke-width="1" fill="rgb(150,30,150)"/>
+			<!-- radius = radius - 2 : 38 -->
+			<!-- r = r - 5 : 145 -->
+			<!-- g = g + 2 : 32 -->
+			<!-- b = b - 5 : 145 -->
+			<!-- repeat -->
+		<!-- loop #11 -->
+			<!-- fill 145, 32, 145 -->
+			<!-- pen 145, 32, 145 -->
+			<circle cx="38" cy="910" r="175" stroke="rgb(145,32,145)"  stroke-width="1" fill="rgb(145,32,145)"/>
+			<!-- radius = radius - 2 : 36 -->
+			<!-- r = r - 5 : 140 -->
+			<!-- g = g + 2 : 34 -->
+			<!-- b = b - 5 : 140 -->
+			<!-- repeat -->
+		<!-- loop #12 -->
+			<!-- fill 140, 34, 140 -->
+			<!-- pen 140, 34, 140 -->
+			<circle cx="36" cy="910" r="175" stroke="rgb(140,34,140)"  stroke-width="1" fill="rgb(140,34,140)"/>
+			<!-- radius = radius - 2 : 34 -->
+			<!-- r = r - 5 : 135 -->
+			<!-- g = g + 2 : 36 -->
+			<!-- b = b - 5 : 135 -->
+			<!-- repeat -->
+		<!-- loop #13 -->
+			<!-- fill 135, 36, 135 -->
+			<!-- pen 135, 36, 135 -->
+			<circle cx="34" cy="910" r="175" stroke="rgb(135,36,135)"  stroke-width="1" fill="rgb(135,36,135)"/>
+			<!-- radius = radius - 2 : 32 -->
+			<!-- r = r - 5 : 130 -->
+			<!-- g = g + 2 : 38 -->
+			<!-- b = b - 5 : 130 -->
+			<!-- repeat -->
+		<!-- loop #14 -->
+			<!-- fill 130, 38, 130 -->
+			<!-- pen 130, 38, 130 -->
+			<circle cx="32" cy="910" r="175" stroke="rgb(130,38,130)"  stroke-width="1" fill="rgb(130,38,130)"/>
+			<!-- radius = radius - 2 : 30 -->
+			<!-- r = r - 5 : 125 -->
+			<!-- g = g + 2 : 40 -->
+			<!-- b = b - 5 : 125 -->
+			<!-- repeat -->
+		<!-- loop #15 -->
+			<!-- fill 125, 40, 125 -->
+			<!-- pen 125, 40, 125 -->
+			<circle cx="30" cy="910" r="175" stroke="rgb(125,40,125)"  stroke-width="1" fill="rgb(125,40,125)"/>
+			<!-- radius = radius - 2 : 28 -->
+			<!-- r = r - 5 : 120 -->
+			<!-- g = g + 2 : 42 -->
+			<!-- b = b - 5 : 120 -->
+			<!-- repeat -->
+		<!-- loop #16 -->
+			<!-- fill 120, 42, 120 -->
+			<!-- pen 120, 42, 120 -->
+			<circle cx="28" cy="910" r="175" stroke="rgb(120,42,120)"  stroke-width="1" fill="rgb(120,42,120)"/>
+			<!-- radius = radius - 2 : 26 -->
+			<!-- r = r - 5 : 115 -->
+			<!-- g = g + 2 : 44 -->
+			<!-- b = b - 5 : 115 -->
+			<!-- repeat -->
+		<!-- loop #17 -->
+			<!-- fill 115, 44, 115 -->
+			<!-- pen 115, 44, 115 -->
+			<circle cx="26" cy="910" r="175" stroke="rgb(115,44,115)"  stroke-width="1" fill="rgb(115,44,115)"/>
+			<!-- radius = radius - 2 : 24 -->
+			<!-- r = r - 5 : 110 -->
+			<!-- g = g + 2 : 46 -->
+			<!-- b = b - 5 : 110 -->
+			<!-- repeat -->
+		<!-- loop #18 -->
+			<!-- fill 110, 46, 110 -->
+			<!-- pen 110, 46, 110 -->
+			<circle cx="24" cy="910" r="175" stroke="rgb(110,46,110)"  stroke-width="1" fill="rgb(110,46,110)"/>
+			<!-- radius = radius - 2 : 22 -->
+			<!-- r = r - 5 : 105 -->
+			<!-- g = g + 2 : 48 -->
+			<!-- b = b - 5 : 105 -->
+			<!-- repeat -->
+		<!-- loop #19 -->
+			<!-- fill 105, 48, 105 -->
+			<!-- pen 105, 48, 105 -->
+			<circle cx="22" cy="910" r="175" stroke="rgb(105,48,105)"  stroke-width="1" fill="rgb(105,48,105)"/>
+			<!-- radius = radius - 2 : 20 -->
+			<!-- r = r - 5 : 100 -->
+			<!-- g = g + 2 : 50 -->
+			<!-- b = b - 5 : 100 -->
+			<!-- repeat -->
+		<!-- loop #20 -->
+			<!-- fill 100, 50, 100 -->
+			<!-- pen 100, 50, 100 -->
+			<circle cx="20" cy="910" r="175" stroke="rgb(100,50,100)"  stroke-width="1" fill="rgb(100,50,100)"/>
+			<!-- radius = radius - 2 : 18 -->
+			<!-- r = r - 5 : 95 -->
+			<!-- g = g + 2 : 52 -->
+			<!-- b = b - 5 : 95 -->
+			<!-- repeat -->
+		<!-- loop #21 -->
+			<!-- fill 95, 52, 95 -->
+			<!-- pen 95, 52, 95 -->
+			<circle cx="18" cy="910" r="175" stroke="rgb(95,52,95)"  stroke-width="1" fill="rgb(95,52,95)"/>
+			<!-- radius = radius - 2 : 16 -->
+			<!-- r = r - 5 : 90 -->
+			<!-- g = g + 2 : 54 -->
+			<!-- b = b - 5 : 90 -->
+			<!-- repeat -->
+		<!-- loop #22 -->
+			<!-- fill 90, 54, 90 -->
+			<!-- pen 90, 54, 90 -->
+			<circle cx="16" cy="910" r="175" stroke="rgb(90,54,90)"  stroke-width="1" fill="rgb(90,54,90)"/>
+			<!-- radius = radius - 2 : 14 -->
+			<!-- r = r - 5 : 85 -->
+			<!-- g = g + 2 : 56 -->
+			<!-- b = b - 5 : 85 -->
+			<!-- repeat -->
+		<!-- loop #23 -->
+			<!-- fill 85, 56, 85 -->
+			<!-- pen 85, 56, 85 -->
+			<circle cx="14" cy="910" r="175" stroke="rgb(85,56,85)"  stroke-width="1" fill="rgb(85,56,85)"/>
+			<!-- radius = radius - 2 : 12 -->
+			<!-- r = r - 5 : 80 -->
+			<!-- g = g + 2 : 58 -->
+			<!-- b = b - 5 : 80 -->
+			<!-- repeat -->
+		<!-- loop #24 -->
+			<!-- fill 80, 58, 80 -->
+			<!-- pen 80, 58, 80 -->
+			<circle cx="12" cy="910" r="175" stroke="rgb(80,58,80)"  stroke-width="1" fill="rgb(80,58,80)"/>
+			<!-- radius = radius - 2 : 10 -->
+			<!-- r = r - 5 : 75 -->
+			<!-- g = g + 2 : 60 -->
+			<!-- b = b - 5 : 75 -->
+			<!-- repeat -->
+		<!-- loop #25 -->
+			<!-- fill 75, 60, 75 -->
+			<!-- pen 75, 60, 75 -->
+			<circle cx="10" cy="910" r="175" stroke="rgb(75,60,75)"  stroke-width="1" fill="rgb(75,60,75)"/>
+			<!-- radius = radius - 2 : 8 -->
+			<!-- r = r - 5 : 70 -->
+			<!-- g = g + 2 : 62 -->
+			<!-- b = b - 5 : 70 -->
+			<!-- repeat -->
+		<!-- loop #26 -->
+			<!-- fill 70, 62, 70 -->
+			<!-- pen 70, 62, 70 -->
+			<circle cx="8" cy="910" r="175" stroke="rgb(70,62,70)"  stroke-width="1" fill="rgb(70,62,70)"/>
+			<!-- radius = radius - 2 : 6 -->
+			<!-- r = r - 5 : 65 -->
+			<!-- g = g + 2 : 64 -->
+			<!-- b = b - 5 : 65 -->
+			<!-- repeat -->
+		<!-- loop #27 -->
+			<!-- fill 65, 64, 65 -->
+			<!-- pen 65, 64, 65 -->
+			<circle cx="6" cy="910" r="175" stroke="rgb(65,64,65)"  stroke-width="1" fill="rgb(65,64,65)"/>
+			<!-- radius = radius - 2 : 4 -->
+			<!-- r = r - 5 : 60 -->
+			<!-- g = g + 2 : 66 -->
+			<!-- b = b - 5 : 60 -->
+			<!-- repeat -->
+		<!-- loop #28 -->
+			<!-- fill 60, 66, 60 -->
+			<!-- pen 60, 66, 60 -->
+			<circle cx="4" cy="910" r="175" stroke="rgb(60,66,60)"  stroke-width="1" fill="rgb(60,66,60)"/>
+			<!-- radius = radius - 2 : 2 -->
+			<!-- r = r - 5 : 55 -->
+			<!-- g = g + 2 : 68 -->
+			<!-- b = b - 5 : 55 -->
+			<!-- repeat -->
+		<!-- loop #29 -->
+			<!-- fill 55, 68, 55 -->
+			<!-- pen 55, 68, 55 -->
+			<circle cx="2" cy="910" r="175" stroke="rgb(55,68,55)"  stroke-width="1" fill="rgb(55,68,55)"/>
+			<!-- radius = radius - 2 : 0 -->
+			<!-- r = r - 5 : 50 -->
+			<!-- g = g + 2 : 70 -->
+			<!-- b = b - 5 : 50 -->
+			<!-- repeat -->
+		<!-- x1 = x1 + 200 : 1025 -->
+		<!-- x2 = x2 + 200 : 1200 -->
+		<!-- repeat -->
+</svg>

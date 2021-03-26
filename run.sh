@@ -3,21 +3,48 @@
 dir="$(dirname $0)"
 
 function run_test {
-    rm -rf output
+    rm -rf output.*
     filename="$dir/tests/$1"
-    outputname="$(dirname $filename)/$(basename $1 .asm).out"
+    outputname="$(dirname $filename)/$(basename $1 .dsn).out"
+    svgoutputname="$(dirname $filename)/$(basename $1 .dsn).svg"
     echo Running $filename
-    node $dir/../index.js $filename > output 100
+    node $dir/../index.js $filename output.svg > output.out
     ERROR=0
-    if ! diff output $outputname -Z --side-by-side > error; 
+
+    PIXELS=10
+
+    compare -verbose -metric AE "$svgoutputname" "output.svg" > /dev/null 2> output.report - 
+    tail -n 5 "output.report" > "output.report.tmp"
+    mv "output.report.tmp" "output.report"
+    red_pixels=`cat "output.report" | grep red | head -1 | cut -d ":" -f 2 | tr -d " "`
+    green_pixels=`cat "output.report" | grep green | head -1 | cut -d ":" -f 2 | tr -d " "`
+    blue_pixels=`cat "output.report" | grep blue | head -1 | cut -d ":" -f 2 | tr -d " "`
+    alpha_pixels=`cat "output.report" | grep alpha | head -1 | cut -d ":" -f 2 | tr -d " "`
+    all_pixels=`cat "output.report" | grep all | head -1 | cut -d ":" -f 2 | tr -d " "`
+    # echo "all pixels " "{"$all_pixels"}"
+    if test "$all_pixels" != "" && [[ "$all_pixels" -le "$PIXELS" ]];
     then
-        echo "Your output                                                   | Correct output"
-        cat error
-        ERROR=1
+        cat "$outputname" | sort > output.original.sorted
+        cat output.out | sort > output.sorted
+        if ! diff --ignore-space-change --side-by-side --suppress-common-lines output.original.sorted output.sorted &> error
+        then
+            echo "Your output                                                   | Correct output"
+            cat error
+            ERROR=1
+        else
+            echo Correct
+        fi
     else
-        echo Correct
+        if [ "$all_pixels" != "" ];
+        then
+            echo "Pixels that are different"
+            head -10 output.report
+        else
+            echo "Your SVG file has errors"
+            head -10 output.report
+        fi
     fi
-    rm -rf output 
+    rm -rf output.* 
     rm -rf error
     return $ERROR
 }
@@ -25,10 +52,10 @@ function run_test {
 if [ $# -lt 1 ];
 then
     echo "Running all tests"
-    for folder in "$(cd $dir && find tests -type d -mindepth 1 -maxdepth 1)"
+    for folder in "$(cd $dir && find tests -mindepth 1 -maxdepth 1 -type d)"
     do
         echo $folder
-        for file in ""$(cd $dir/tests && find . -type f -name '*.asm' -mindepth 1 -maxdepth 2)""
+        for file in ""$(cd $dir/tests && find . -mindepth 1 -maxdepth 2 -type f -name '*.dsn')""
         do
             # echo file $file
             run_test $file

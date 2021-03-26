@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- fill 100, 50, 240 -->
+	<polygon points="20,100 300,100 300,150 20,150" stroke="rgb(0,0,0)"  stroke-width="1"  fill="rgb(100,50,240)"/>
+	<!-- fill 200, 30, 70 -->
+	<circle cx="100" cy="130" r="100" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(200,30,70)"/>
+	<!-- pen 0, 200, 150 -->
+	<line x1="300" y1="150" x2="200" y2="150" stroke="rgb(0,200,150)"  stroke-width="1" />
+	<!-- pen 100, 0, 150 -->
+	<line x1="200" y1="150" x2="200" y2="420" stroke="rgb(100,0,150)"  stroke-width="1" />
+	<!-- fill 200, 50, 200 -->
+	<ellipse cx="70" cy="40" rx="100" ry="200" stroke="rgb(100,0,150)"  stroke-width="1" fill="rgb(200,50,200)"/>
+</svg>

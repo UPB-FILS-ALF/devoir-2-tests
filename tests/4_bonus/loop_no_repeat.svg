@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- i = 2 -->
+	<!-- x = 100 -->
+	<!-- y = 200 -->
+	<!-- loop 2: 2 -->
+	<!-- loop #0 -->
+		<circle cx="50" cy="100" r="100" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,255,255)"/>
+		<!-- while i: 2 -->
+		<!-- while #0 i: 2 -->
+			<line x1="0" y1="0" x2="100" y2="200" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<!-- x = x + 100 : 200 -->
+			<!-- y = y - 200 : 0 -->
+			<!-- i = i - 1 : 1 -->
+			<!-- repeat -->
+		<!-- while #1 i: 1 -->
+			<line x1="100" y1="200" x2="200" y2="0" stroke="rgb(0,0,0)"  stroke-width="1" />
+			<!-- x = x + 100 : 300 -->
+			<!-- y = y - 200 : -200 -->
+			<!-- i = i - 1 : 0 -->
+			<!-- repeat -->
+</svg>

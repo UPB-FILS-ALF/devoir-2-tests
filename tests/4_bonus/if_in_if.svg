@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768">
+	<!-- a = 10 -->
+	<!-- b = 0 -->
+	<!-- if a: 10 -->
+		<!-- fill 100, 20, 200 -->
+		<polygon points="100,200 200,200 200,100 100,100" stroke="rgb(0,0,0)"  stroke-width="1"  fill="rgb(100,20,200)"/>
+		<!-- if b: 0 -->
+			<!-- else -->
+			<!-- fill 255, 0, 40 -->
+			<circle cx="100" cy="300" r="500" stroke="rgb(0,0,0)"  stroke-width="1" fill="rgb(255,0,40)"/>
+			<!-- end -->
+		<!-- else -->
+		<!-- end -->
+</svg>
