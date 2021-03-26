@@ -11,7 +11,7 @@ function run_test {
     outputname="$(dirname $filename)/$(basename $1 .dsn).out"
     svgoutputname="$(dirname $filename)/$(basename $1 .dsn).svg"
     echo Running $filename
-    node $dir/../index.js $filename output.svg > output.out
+    node $dir/../index.js $filename output.svg > output.out 2> output.err
     ERROR=0
 
     PIXELS=10
@@ -46,6 +46,10 @@ function run_test {
         else
             echo "Your SVG file has errors"
             head -10 output.report
+            echo "Yout output (last 10 lines)"
+            tail -10 output.out
+            echo "Yout errors (last 10 lines)"
+            tail -10 output.err
         fi
     fi
     rm -rf output.* 
