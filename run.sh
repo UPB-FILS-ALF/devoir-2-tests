@@ -5,6 +5,9 @@ dir="$(dirname $0)"
 function run_test {
     rm -rf output.*
     filename="$dir/tests/$1"
+
+    echo $filename
+    
     outputname="$(dirname $filename)/$(basename $1 .dsn).out"
     svgoutputname="$(dirname $filename)/$(basename $1 .dsn).svg"
     echo Running $filename
@@ -35,6 +38,7 @@ function run_test {
             echo Correct
         fi
     else
+        ERROR=1
         if [ "$all_pixels" != "" ];
         then
             echo "Pixels that are different"
@@ -52,13 +56,12 @@ function run_test {
 if [ $# -lt 1 ];
 then
     echo "Running all tests"
-    for folder in "$(cd $dir && find tests -mindepth 1 -maxdepth 1 -type d)"
+    for folder in $(cd $dir && find tests -mindepth 1 -maxdepth 1 -type d)
     do
-        echo $folder
-        for file in ""$(cd $dir/tests && find . -mindepth 1 -maxdepth 2 -type f -name '*.dsn')""
+        for file in $(cd $dir/$folder && find . -mindepth 1 -maxdepth 2 -type f -name '*.dsn')
         do
-            # echo file $file
-            run_test $file
+            echo file $(basename $folder)/$(basename $file)
+            run_test $(basename $folder)/$(basename $file)
         done
     done
 else
