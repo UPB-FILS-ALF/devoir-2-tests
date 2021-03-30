@@ -1,1 +1,1 @@
-LINE 3 HAS ERROR: LINE parameter 3 needs to be one of (location, polar), you wrote line
+ERROR LINE (3): LINE parameter 3 needs to be one of (location, polar), you wrote line

@@ -1,3 +1,3 @@
-LINE 4 HAS ERROR: WHILE has 1 parameters, you wrote 3
-LINE 6 HAS ERROR: COLOR parameter 1 needs to be one of (pen, fill), you wrote 100
-LINE 10 HAS ERROR: REPEAT and no LOOP
+ERROR LINE (4): WHILE has 1 parameters, you wrote 3
+ERROR LINE (6): COLOR parameter 1 needs to be one of (pen, fill), you wrote 100
+ERROR LINE (10): REPEAT and no LOOP

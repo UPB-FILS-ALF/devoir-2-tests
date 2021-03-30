@@ -1,2 +1,2 @@
-LINE 4 HAS ERROR: LOOP has 1 parameters, you wrote 2
-LINE 7 HAS ERROR: REPEAT and no LOOP
+ERROR LINE (4): LOOP has 1 parameters, you wrote 2
+ERROR LINE (7): REPEAT and no LOOP
