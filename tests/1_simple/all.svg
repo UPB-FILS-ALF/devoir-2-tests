@@ -7,7 +7,7 @@
 	<!-- pen 0, 200, 150 -->
 	<line x1="300" y1="150" x2="200" y2="150" stroke="rgb(0,200,150)"  stroke-width="1" />
 	<!-- pen 100, 0, 150 -->
-	<line x1="200" y1="150" x2="200" y2="420" stroke="rgb(100,0,150)"  stroke-width="1" />
+	<line x1="200" y1="150" x2="200" y2="250" stroke="rgb(100,0,150)"  stroke-width="1" />
 	<!-- fill 200, 50, 200 -->
 	<ellipse cx="70" cy="40" rx="100" ry="200" stroke="rgb(100,0,150)"  stroke-width="1" fill="rgb(200,50,200)"/>
 </svg>
