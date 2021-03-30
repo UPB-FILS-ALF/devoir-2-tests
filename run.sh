@@ -29,7 +29,7 @@ function run_test {
     then
         cat "$outputname" | sort > output.original.sorted
         cat output.out | sort > output.sorted
-        if ! diff --ignore-space-change --side-by-side --suppress-common-lines output.original.sorted output.sorted &> error
+        if ! diff --ignore-space-change --side-by-side --suppress-common-lines output.sorted output.original.sorted &> error
         then
             echo "Your output                                                   | Correct output"
             cat error
