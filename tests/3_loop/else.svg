@@ -7,6 +7,6 @@
 		<!-- fill 10, 200, 200 -->
 		<polygon points="200,100 100,100 100,200 200,200" stroke="rgb(40,20,220)"  stroke-width="1"  fill="rgb(10,200,200)"/>
 		<!-- pen 200, 20, 100 -->
-		<line x1="100" y1="200" x2="200" y2="200" stroke="rgb(200,20,100)"  stroke-width="1" />
+		<line x1="0" y1="0" x2="200" y2="200" stroke="rgb(200,20,100)"  stroke-width="1" />
 		<!-- end -->
 </svg>
