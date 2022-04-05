@@ -11,6 +11,6 @@ REPEAT
 
 IF: %a
 COLOR:  fill 255 0 0
-COLOR:  pen 0 0 300
+COLOR:  pen 0 0 255
 ELLIPSE: 150 50 400 400 
 END
