@@ -8,6 +8,6 @@
 	<!-- if a: 3 -->
 		<!-- fill 255, 0, 0 -->
 		<!-- pen 0, 0, 300 -->
-		<ellipse cx="150" cy="50" rx="400" ry="400" stroke="rgb(0,0,300)"  stroke-width="1" fill="rgb(255,0,0)"/>
+		<ellipse cx="150" cy="50" rx="400" ry="400" stroke="rgb(0,0,255)"  stroke-width="1" fill="rgb(255,0,0)"/>
 		<!-- end -->
 </svg>
